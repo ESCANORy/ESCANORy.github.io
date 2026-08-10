@@ -1,0 +1,1 @@
+{"algorithm":"ECDSA_P256_SHA256","keyId":"xpmanga-update-2026-02","schemaVersion":1,"signature":"MEYCIQC8SfA+QWR5NQhs18Kqw6tOBKSU1PwLG3rtwMHegBg5uAIhAIesuEnjgn/80gsHtbxhSSrOwN+6hMt3PZRVrbLCvftH"}
