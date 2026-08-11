@@ -1,0 +1,14 @@
+{
+  "schemaVersion": "1.0",
+  "generatedAt": "2026-08-02T00:00:00Z",
+  "publicationSequence": 8,
+  "sources": [
+    { "displayName": "Olympus Staff", "approvedAliases": ["TeamXNovel", "OlympusStaff", "olympustaff.com", "أوليمبوس ستاف"], "languageCodes": ["ar"], "canonicalDomain": "olympustaff.com", "integrationStatus": "SUPPORTED", "lastUpdated": "2026-08-02", "detailsCopy": { "ar": "تكامل رسمي منشور لمصدر عربي عبر XPManga.", "en": "An official published integration for an Arabic source in XPManga." } },
+    { "displayName": "MeshManga", "approvedAliases": ["Mesh Manga", "meshmanga.com", "ميش مانجا"], "languageCodes": ["ar"], "canonicalDomain": "meshmanga.com", "integrationStatus": "SUPPORTED", "lastUpdated": "2026-08-02", "detailsCopy": { "ar": "تكامل رسمي منشور لمصدر عربي عبر XPManga.", "en": "An official published integration for an Arabic source in XPManga." } },
+    { "displayName": "MangaTek", "approvedAliases": ["Manga Tek", "mangatek.com", "مانجا تك"], "languageCodes": ["ar"], "canonicalDomain": "mangatek.com", "integrationStatus": "SUPPORTED", "lastUpdated": "2026-08-02", "detailsCopy": { "ar": "تكامل رسمي منشور لمصدر عربي عبر XPManga.", "en": "An official published integration for an Arabic source in XPManga." } },
+    { "displayName": "Hijala Manga", "approvedAliases": ["Hijala", "hijala.com", "هيجالا مانجا"], "languageCodes": ["ar"], "canonicalDomain": "hijala.com", "integrationStatus": "SUPPORTED", "lastUpdated": "2026-08-02", "detailsCopy": { "ar": "تكامل رسمي منشور لمصدر عربي عبر XPManga.", "en": "An official published integration for an Arabic source in XPManga." } },
+    { "displayName": "RocksManga", "approvedAliases": ["Rocks Manga", "rocksmanga.com", "روكس مانجا"], "languageCodes": ["ar"], "canonicalDomain": "rocksmanga.com", "integrationStatus": "SUPPORTED", "lastUpdated": "2026-08-02", "detailsCopy": { "ar": "تكامل رسمي منشور لمصدر عربي عبر XPManga.", "en": "An official published integration for an Arabic source in XPManga." } },
+    { "displayName": "Drake Scans", "approvedAliases": ["Drake Manga", "drakecomic.org", "دريك مانجا"], "languageCodes": ["ar"], "canonicalDomain": "drakecomic.org", "integrationStatus": "SUPPORTED", "lastUpdated": "2026-08-02", "detailsCopy": { "ar": "تكامل رسمي منشور لمصدر عربي عبر XPManga.", "en": "An official published integration for an Arabic source in XPManga." } }
+  ]
+}
+

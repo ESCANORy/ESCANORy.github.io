@@ -1,0 +1,18 @@
+{
+  "releaseStatus": "NO_PUBLIC_APK",
+  "channel": "pre-release",
+  "versionName": null,
+  "versionCode": null,
+  "publishedAt": null,
+  "minAndroid": null,
+  "sizeBytes": null,
+  "artifactUrl": null,
+  "apkSha256": null,
+  "certificateSha256": null,
+  "packageName": null,
+  "releaseUrl": null,
+  "notes": { "ar": "لا توجد APK عامة معتمدة حتى الآن.", "en": "No public APK is approved yet." },
+  "isLatest": true,
+  "verifiedAt": "2026-08-11T00:00:00Z"
+}
+
