@@ -1,20 +1,20 @@
 {
   "releaseStatus": "STABLE_AVAILABLE",
   "channel": "stable",
-  "versionName": "1.4.6",
-  "versionCode": 119,
-  "publishedAt": "2026-08-23T09:53:17Z",
+  "versionName": "1.4.7",
+  "versionCode": 120,
+  "publishedAt": "2026-08-23T20:17:46Z",
   "minAndroid": 26,
-  "sizeBytes": 4361242,
-  "artifactUrl": "https://github.com/ESCANORy/ESCANORy.github.io/releases/download/v1.4.6/XPManga-v1.4.6.apk",
-  "apkSha256": "3b1e32af9eba48f6df294f92f6d14f069f6776893fbe5e484b5cfc5ff7b6c204",
+  "sizeBytes": 3860289,
+  "artifactUrl": "https://github.com/ESCANORy/ESCANORy.github.io/releases/download/v1.4.7/XPManga-v1.4.7.apk",
+  "apkSha256": "809f6de1e24c836990fe3571260fc444f7d6faebd5935187a4354f5c6e45511f",
   "certificateSha256": "16a41427bd82b4ddae2ef3b2dee6e6e916644c660e843351546d11695b769a73",
   "packageName": "com.yahya.mangareader",
-  "releaseUrl": "https://github.com/ESCANORy/ESCANORy.github.io/releases/tag/v1.4.6",
+  "releaseUrl": "https://github.com/ESCANORy/ESCANORy.github.io/releases/tag/v1.4.7",
   "notes": {
-    "ar": "إصدار 1.4.6 المستقر اجتاز اختبار ترقية على جهاز حقيقي مع الحفاظ على المكتبة والتقدم والإعدادات.",
-    "en": "Stable 1.4.6 passed an in-place upgrade test on a real device with library, progress, and settings preserved."
+    "ar": "إصدار XPManga 1.4.7 الإجباري: شعار التطبيق الجديد الثابت دون تبديل مع الوضع الفاتح والداكن، إصلاح حواف الأيقونة، وإزالة شعار XPManga من شاشتي «مصادري» و«ابدأ بمصدر تثق به». يتضمن الإصدار تحسينات الاستقرار وتجربة الاستخدام، مع الحفاظ على بيانات المستخدم والإعدادات عند التحديث.",
+    "en": "Mandatory XPManga 1.4.7 update: a single fixed app icon with no light/dark icon switching, corrected launcher icon edge rendering, and removal of the XPManga brand mark from the Sources and trusted-source onboarding empty states. This release includes stability and usability improvements while preserving user data and settings during upgrade."
   },
   "isLatest": true,
-  "verifiedAt": "2026-08-23T09:53:17Z"
+  "verifiedAt": "2026-08-23T20:17:46Z"
 }
