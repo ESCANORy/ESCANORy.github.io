@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+Disallow: /privacy
+Disallow: /terms
+Disallow: /content-rights
+Sitemap: https://xpmanga.com/sitemap.xml
+

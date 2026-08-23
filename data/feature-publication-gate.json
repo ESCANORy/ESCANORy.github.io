@@ -1,0 +1,12 @@
+{
+  "schemaVersion": "1.0",
+  "defaultReleaseStatus": "NO_PUBLIC_APK",
+  "features": [
+    { "featureId": "reader", "publicationStatus": "unpublished", "releaseChannel": "pre-release" },
+    { "featureId": "library", "publicationStatus": "unpublished", "releaseChannel": "pre-release" },
+    { "featureId": "offline", "publicationStatus": "unpublished", "releaseChannel": "pre-release" },
+    { "featureId": "search", "publicationStatus": "unpublished", "releaseChannel": "pre-release" },
+    { "featureId": "sessions", "publicationStatus": "unpublished", "releaseChannel": "pre-release" }
+  ]
+}
+
