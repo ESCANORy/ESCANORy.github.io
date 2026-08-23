@@ -22,6 +22,8 @@ const readJson = async (file) => JSON.parse(await readFile(join(publicDir, "data
 const release = await readJson("release.json");
 const sources = await readJson("sources-projection.json");
 const gate = await readJson("feature-publication-gate.json");
+const stableManifest = JSON.parse(await readFile(join(publicDir, "xpmanga-app", "updates", "stable", "manifest.json"), "utf8"));
+const stableSignature = JSON.parse(await readFile(join(publicDir, "xpmanga-app", "updates", "stable", "manifest.sig"), "utf8"));
 
 const allowedRelease = new Set(["releaseStatus", "channel", "versionName", "versionCode", "publishedAt", "minAndroid", "sizeBytes", "artifactUrl", "apkSha256", "certificateSha256", "packageName", "releaseUrl", "notes", "isLatest", "verifiedAt"]);
 const allowedSource = new Set(["displayName", "approvedAliases", "languageCodes", "canonicalDomain", "integrationStatus", "lastUpdated", "detailsCopy"]);
@@ -41,6 +43,14 @@ if (release.releaseStatus === "NO_PUBLIC_APK") {
   if (!/^\d+\.\d+\.\d+(?:-[0-9A-Za-z.-]+)?$/.test(release.versionName ?? "")) throw new Error("Published release must expose a valid versionName");
   if (release.packageName !== "com.yahya.mangareader") throw new Error("Published release packageName is not trusted");
   if (release.releaseStatus === "STABLE_AVAILABLE" && release.channel !== "stable") throw new Error("Stable release must use the stable channel");
+  if (release.releaseStatus === "STABLE_AVAILABLE") {
+    if (stableManifest.channel !== "stable") throw new Error("Stable manifest channel is invalid");
+    if (stableManifest.versionName !== release.versionName || stableManifest.versionCode !== release.versionCode) throw new Error("Stable manifest and release version disagree");
+    if (stableManifest.apkUrl !== release.artifactUrl || stableManifest.apkSha256 !== release.apkSha256 || stableManifest.apkSize !== release.sizeBytes) throw new Error("Stable manifest and release artifact disagree");
+    if (stableManifest.packageName !== release.packageName || stableManifest.signingCertificateSha256 !== release.certificateSha256) throw new Error("Stable manifest and release identity disagree");
+    if (stableSignature.schemaVersion !== 1 || stableSignature.keyId !== "xpmanga-update-2026-02" || stableSignature.algorithm !== "ECDSA_P256_SHA256") throw new Error("Stable manifest signature envelope is not trusted");
+    if (!/^[A-Za-z0-9+/]+={0,2}$/.test(stableSignature.signature ?? "")) throw new Error("Stable manifest signature is not valid base64");
+  }
 }
 if (!sources || !Array.isArray(sources.sources)) throw new Error("sources projection must contain sources[]");
 for (const source of sources.sources) {
