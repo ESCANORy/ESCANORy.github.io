@@ -1,12 +1,11 @@
 {
   "schemaVersion": "1.0",
-  "defaultReleaseStatus": "NO_PUBLIC_APK",
+  "defaultReleaseStatus": "STABLE_AVAILABLE",
   "features": [
-    { "featureId": "reader", "publicationStatus": "unpublished", "releaseChannel": "pre-release" },
-    { "featureId": "library", "publicationStatus": "unpublished", "releaseChannel": "pre-release" },
-    { "featureId": "offline", "publicationStatus": "unpublished", "releaseChannel": "pre-release" },
-    { "featureId": "search", "publicationStatus": "unpublished", "releaseChannel": "pre-release" },
-    { "featureId": "sessions", "publicationStatus": "unpublished", "releaseChannel": "pre-release" }
+    { "featureId": "reader", "publicationStatus": "published", "releaseChannel": "stable" },
+    { "featureId": "library", "publicationStatus": "published", "releaseChannel": "stable" },
+    { "featureId": "offline", "publicationStatus": "published", "releaseChannel": "stable" },
+    { "featureId": "search", "publicationStatus": "published", "releaseChannel": "stable" },
+    { "featureId": "sessions", "publicationStatus": "published", "releaseChannel": "stable" }
   ]
 }
-

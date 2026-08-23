@@ -26,10 +26,22 @@ const gate = await readJson("feature-publication-gate.json");
 const allowedRelease = new Set(["releaseStatus", "channel", "versionName", "versionCode", "publishedAt", "minAndroid", "sizeBytes", "artifactUrl", "apkSha256", "certificateSha256", "packageName", "releaseUrl", "notes", "isLatest", "verifiedAt"]);
 const allowedSource = new Set(["displayName", "approvedAliases", "languageCodes", "canonicalDomain", "integrationStatus", "lastUpdated", "detailsCopy"]);
 const allowedStatuses = new Set(["SUPPORTED", "REQUIRES_APP_UPDATE", "SUSPENDED", "DISCONTINUED", "TEMPORARILY_UNAVAILABLE"]);
+const allowedReleaseStatuses = new Set(["NO_PUBLIC_APK", "PRE_RELEASE_AVAILABLE", "NEWER_RELEASE_AVAILABLE", "STABLE_AVAILABLE", "GOOGLE_PLAY_AVAILABLE", "TEMPORARILY_UNAVAILABLE"]);
 const forbidden = new Set(["sourceId", "packageId", "packagePath", "packageSha256", "engineId", "engineContract", "allowedDomains", "networkPolicy", "privateKey", "jks", "token"]);
 
 for (const key of Object.keys(release)) if (!allowedRelease.has(key)) throw new Error(`Unexpected release field: ${key}`);
-if (release.releaseStatus === "NO_PUBLIC_APK" && release.artifactUrl !== null) throw new Error("NO_PUBLIC_APK cannot expose artifactUrl");
+if (!allowedReleaseStatuses.has(release.releaseStatus)) throw new Error(`Unknown release status: ${release.releaseStatus}`);
+if (release.releaseStatus === "NO_PUBLIC_APK") {
+  if (release.artifactUrl !== null) throw new Error("NO_PUBLIC_APK cannot expose artifactUrl");
+} else {
+  if (!/^https:\/\/github\.com\/ESCANORy\/ESCANORy\.github\.io\/releases\/download\/[0-9A-Za-z._-]+\/[0-9A-Za-z._-]+\.apk$/.test(release.artifactUrl ?? "")) throw new Error("Published release must expose a trusted APK URL");
+  if (!/^[0-9a-f]{64}$/.test(release.apkSha256 ?? "")) throw new Error("Published release must expose an APK SHA-256");
+  if (!/^[0-9a-f]{64}$/.test(release.certificateSha256 ?? "")) throw new Error("Published release must expose a certificate SHA-256");
+  if (!Number.isSafeInteger(release.versionCode) || release.versionCode < 1) throw new Error("Published release must expose a positive versionCode");
+  if (!/^\d+\.\d+\.\d+(?:-[0-9A-Za-z.-]+)?$/.test(release.versionName ?? "")) throw new Error("Published release must expose a valid versionName");
+  if (release.packageName !== "com.yahya.mangareader") throw new Error("Published release packageName is not trusted");
+  if (release.releaseStatus === "STABLE_AVAILABLE" && release.channel !== "stable") throw new Error("Stable release must use the stable channel");
+}
 if (!sources || !Array.isArray(sources.sources)) throw new Error("sources projection must contain sources[]");
 for (const source of sources.sources) {
   for (const key of Object.keys(source)) if (!allowedSource.has(key)) throw new Error(`Unexpected source field: ${key}`);
@@ -39,5 +51,12 @@ for (const source of sources.sources) {
 }
 const serialized = JSON.stringify({ release, sources, gate }).toLowerCase();
 for (const key of forbidden) if (serialized.includes(`"${key.toLowerCase()}"`)) throw new Error(`Forbidden internal field exposed: ${key}`);
-if (!Array.isArray(gate.features) || gate.defaultReleaseStatus !== "NO_PUBLIC_APK") throw new Error("Feature gate default must remain NO_PUBLIC_APK");
+if (!Array.isArray(gate.features) || !allowedReleaseStatuses.has(gate.defaultReleaseStatus)) throw new Error("Feature gate has an invalid default release status");
+if (gate.defaultReleaseStatus !== release.releaseStatus) throw new Error("Feature gate and release projection disagree");
+for (const feature of gate.features) {
+  if (!new Set(["published", "unpublished"]).has(feature.publicationStatus)) throw new Error(`Invalid feature publication status: ${feature.featureId}`);
+  if (release.releaseStatus === "STABLE_AVAILABLE" && (feature.publicationStatus !== "published" || feature.releaseChannel !== "stable")) {
+    throw new Error(`Stable feature is not published on the stable channel: ${feature.featureId}`);
+  }
+}
 console.log(`Validated release, ${sources.sources.length} sources, and ${gate.features.length} gated features in ${publicDir}.`);
