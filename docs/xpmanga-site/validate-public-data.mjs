@@ -1,7 +1,24 @@
 // QA gate: public projections are allowlisted, non-executable, and conservative by default.
-import { readFile } from "node:fs/promises";
+import { access, readFile } from "node:fs/promises";
+import { dirname, join } from "node:path";
+import { fileURLToPath } from "node:url";
 
-const readJson = async (file) => JSON.parse(await readFile(new URL(`../client/public/data/${file}`, import.meta.url), "utf8"));
+const scriptDir = dirname(fileURLToPath(import.meta.url));
+const repositoryRoot = join(scriptDir, "..", "..");
+const buildOutput = join(scriptDir, "..", "dist", "public");
+
+async function exists(path) {
+  try {
+    await access(path);
+    return true;
+  } catch {
+    return false;
+  }
+}
+
+const publicDir = process.env.XPMANGA_SITE_PUBLIC_DIR
+  ?? ((await exists(join(buildOutput, "data", "release.json"))) ? buildOutput : repositoryRoot);
+const readJson = async (file) => JSON.parse(await readFile(join(publicDir, "data", file), "utf8"));
 const release = await readJson("release.json");
 const sources = await readJson("sources-projection.json");
 const gate = await readJson("feature-publication-gate.json");
@@ -23,5 +40,4 @@ for (const source of sources.sources) {
 const serialized = JSON.stringify({ release, sources, gate }).toLowerCase();
 for (const key of forbidden) if (serialized.includes(`"${key.toLowerCase()}"`)) throw new Error(`Forbidden internal field exposed: ${key}`);
 if (!Array.isArray(gate.features) || gate.defaultReleaseStatus !== "NO_PUBLIC_APK") throw new Error("Feature gate default must remain NO_PUBLIC_APK");
-console.log(`Validated release, ${sources.sources.length} sources, and ${gate.features.length} gated features.`);
-
+console.log(`Validated release, ${sources.sources.length} sources, and ${gate.features.length} gated features in ${publicDir}.`);
