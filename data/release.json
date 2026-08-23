@@ -1,18 +1,20 @@
 {
-  "releaseStatus": "NO_PUBLIC_APK",
-  "channel": "pre-release",
-  "versionName": null,
-  "versionCode": null,
-  "publishedAt": null,
-  "minAndroid": null,
-  "sizeBytes": null,
-  "artifactUrl": null,
-  "apkSha256": null,
-  "certificateSha256": null,
-  "packageName": null,
-  "releaseUrl": null,
-  "notes": { "ar": "لا توجد APK عامة معتمدة حتى الآن.", "en": "No public APK is approved yet." },
+  "releaseStatus": "STABLE_AVAILABLE",
+  "channel": "stable",
+  "versionName": "1.4.6",
+  "versionCode": 119,
+  "publishedAt": "2026-08-23T09:53:17Z",
+  "minAndroid": 26,
+  "sizeBytes": 4361242,
+  "artifactUrl": "https://github.com/ESCANORy/ESCANORy.github.io/releases/download/v1.4.6/XPManga-v1.4.6.apk",
+  "apkSha256": "3b1e32af9eba48f6df294f92f6d14f069f6776893fbe5e484b5cfc5ff7b6c204",
+  "certificateSha256": "16a41427bd82b4ddae2ef3b2dee6e6e916644c660e843351546d11695b769a73",
+  "packageName": "com.yahya.mangareader",
+  "releaseUrl": "https://github.com/ESCANORy/ESCANORy.github.io/releases/tag/v1.4.6",
+  "notes": {
+    "ar": "إصدار 1.4.6 المستقر اجتاز اختبار ترقية على جهاز حقيقي مع الحفاظ على المكتبة والتقدم والإعدادات.",
+    "en": "Stable 1.4.6 passed an in-place upgrade test on a real device with library, progress, and settings preserved."
+  },
   "isLatest": true,
-  "verifiedAt": "2026-08-11T00:00:00Z"
+  "verifiedAt": "2026-08-23T09:53:17Z"
 }
-
