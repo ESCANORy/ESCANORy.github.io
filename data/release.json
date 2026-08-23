@@ -12,8 +12,8 @@
   "packageName": "com.yahya.mangareader",
   "releaseUrl": "https://github.com/ESCANORy/ESCANORy.github.io/releases/tag/v1.4.7",
   "notes": {
-    "ar": "XPManga قارئ مانغا عربي لأندرويد، يجمع عدة مصادر في مكتبة واحدة.\n\nبعض المصادر تنشر فصولًا مترجمة آليًا، ترسل فيها الصور والنص المترجم منفصلين، فتظهر الفقاعات فارغة في أغلب القارئات. XPManga يعيد رسم ذلك النص فوق الصفحة، فتصبح تلك الفصول مقروءة.\n\nكما يوفّر تصفح المصادر وإدارة المكتبة وتنزيل الفصول والقراءة دون اتصال.\n\nهذا أول إصدار عام.",
-    "en": "XPManga is an Arabic manga reader for Android that brings multiple sources into a single library.\n\nSome sources publish machine-translated chapters with the artwork and the translated text delivered separately, which leaves the speech bubbles empty in most readers. XPManga renders that text back onto the page, so those chapters are readable.\n\nIt also handles source discovery, library management, chapter downloads, and offline reading.\n\nThis is the first public release."
+    "ar": "XPManga قارئ مانغا لأندرويد يجمع عدة مصادر في مكتبة واحدة، بالعربية والإنجليزية كلغتين أساسيتين.\n\nيوفّر تصفح المصادر وإدارة المكتبة وتنزيل الفصول والقراءة دون اتصال، بقارئ يدعم الاتجاهين من اليمين ومن اليسار.\n\nتختلف المصادر في طريقة تقديمها للفصول، وXPManga يعرضها جميعًا كما ينبغي، بما فيها المصادر التي ترسل الصور والنص المترجم منفصلين.\n\nهذا أول إصدار عام.",
+    "en": "XPManga is an Android manga reader that brings multiple sources into a single library, with Arabic and English as its primary languages.\n\nIt handles source discovery, library management, chapter downloads, offline reading, and a reader built for both right-to-left and left-to-right content.\n\nSources vary in how they deliver chapters. XPManga renders each of them correctly, including those that publish artwork and translated text separately.\n\nThis is the first public release."
   },
   "isLatest": true,
   "verifiedAt": "2026-08-23T20:17:46Z"
