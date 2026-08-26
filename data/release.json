@@ -1,20 +1,20 @@
 {
   "releaseStatus": "STABLE_AVAILABLE",
   "channel": "stable",
-  "versionName": "1.4.7",
-  "versionCode": 120,
-  "publishedAt": "2026-08-23T20:17:46Z",
+  "versionName": "1.4.8",
+  "versionCode": 121,
+  "publishedAt": "2026-08-26T16:02:13Z",
   "minAndroid": 26,
-  "sizeBytes": 3860289,
-  "artifactUrl": "https://github.com/ESCANORy/ESCANORy.github.io/releases/download/v1.4.7/XPManga-v1.4.7.apk",
-  "apkSha256": "809f6de1e24c836990fe3571260fc444f7d6faebd5935187a4354f5c6e45511f",
+  "sizeBytes": 3672217,
+  "artifactUrl": "https://github.com/ESCANORy/ESCANORy.github.io/releases/download/v1.4.8/XPManga-v1.4.8.apk",
+  "apkSha256": "e5ed1798d7cb48ad2139cf39670e665fb5bcfa891567381360dff77b3870eb92",
   "certificateSha256": "16a41427bd82b4ddae2ef3b2dee6e6e916644c660e843351546d11695b769a73",
   "packageName": "com.yahya.mangareader",
-  "releaseUrl": "https://github.com/ESCANORy/ESCANORy.github.io/releases/tag/v1.4.7",
+  "releaseUrl": "https://github.com/ESCANORy/ESCANORy.github.io/releases/tag/v1.4.8",
   "notes": {
-    "ar": "XPManga قارئ مانغا لأندرويد يجمع عدة مصادر في مكتبة واحدة، بالعربية والإنجليزية كلغتين أساسيتين.\n\nيوفّر تصفح المصادر وإدارة المكتبة وتنزيل الفصول والقراءة دون اتصال، بقارئ يدعم الاتجاهين من اليمين ومن اليسار.\n\nتختلف المصادر في طريقة تقديمها للفصول، وXPManga يعرضها جميعًا كما ينبغي، بما فيها المصادر التي ترسل الصور والنص المترجم منفصلين.\n\nهذا أول إصدار عام.",
-    "en": "XPManga is an Android manga reader that brings multiple sources into a single library, with Arabic and English as its primary languages.\n\nIt handles source discovery, library management, chapter downloads, offline reading, and a reader built for both right-to-left and left-to-right content.\n\nSources vary in how they deliver chapters. XPManga renders each of them correctly, including those that publish artwork and translated text separately.\n\nThis is the first public release."
+    "ar": "التنزيل أصبح أوضح وأكثر موثوقية مع استئناف المحاولة من حيث توقفت، وثلاثة خيارات لجودة التنزيل مع عرض الحجم الفعلي. تحسنت متابعة القراءة والبحث في الفصول وترتيبها، وأصبحت صفحة العمل أكثر ثباتًا مع غلاف أكبر يمكن فتحه وحفظه. يتضمن الإصدار تجربة أول تشغيل أفضل، واستعادة اتصال أوضح عند العودة من الخلفية، وإصلاحات وتحسينات عامة في الاستقرار والأداء.",
+    "en": "Downloads are clearer and more reliable, with retry from where a failed chapter stopped, three download-quality options, and the actual saved size shown during download. Continue Reading, chapter search and sorting, and the title page are improved, including a larger cover that can be opened and saved. This release also improves first launch and connection recovery after returning from the background, with general stability and performance fixes."
   },
   "isLatest": true,
-  "verifiedAt": "2026-08-23T20:17:46Z"
+  "verifiedAt": "2026-08-26T16:02:13Z"
 }
