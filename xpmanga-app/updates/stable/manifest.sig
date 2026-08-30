@@ -1,1 +1,1 @@
-{"algorithm":"ECDSA_P256_SHA256","keyId":"xpmanga-update-2026-02","schemaVersion":1,"signature":"MEUCIQCsvrIayeoz0nbafAfF5p90kbLfjoqkLOUqdwVWv8ykXAIgODKtnWEC9np0rSbY42kANSQFSu3hsrogtFqTZRxKo/4="}
+{"algorithm":"ECDSA_P256_SHA256","keyId":"xpmanga-update-2026-02","schemaVersion":1,"signature":"MEYCIQDxRdN3V1jkFkacw1rtsWYZjt/x5/O0tBq73occ1so1eQIhAKoHP6f5BWz1Uf3pyKl4Ewapy6fLVxtG4v3CklEOJvZi"}
