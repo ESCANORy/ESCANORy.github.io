@@ -1,20 +1,20 @@
 {
   "releaseStatus": "STABLE_AVAILABLE",
   "channel": "stable",
-  "versionName": "1.4.8",
-  "versionCode": 121,
-  "publishedAt": "2026-08-26T16:02:13Z",
+  "versionName": "1.4.9",
+  "versionCode": 143,
+  "publishedAt": "2026-08-30T18:32:32Z",
   "minAndroid": 26,
-  "sizeBytes": 3672217,
-  "artifactUrl": "https://github.com/ESCANORy/ESCANORy.github.io/releases/download/v1.4.8/XPManga-v1.4.8.apk",
-  "apkSha256": "e5ed1798d7cb48ad2139cf39670e665fb5bcfa891567381360dff77b3870eb92",
+  "sizeBytes": 3827138,
+  "artifactUrl": "https://github.com/ESCANORy/ESCANORy.github.io/releases/download/v1.4.9/XPManga-v1.4.9.apk",
+  "apkSha256": "b263c508ad613ae336b0355f5254009ef758ebbe2ee431d89421899d8fa3e4f7",
   "certificateSha256": "16a41427bd82b4ddae2ef3b2dee6e6e916644c660e843351546d11695b769a73",
   "packageName": "com.yahya.mangareader",
-  "releaseUrl": "https://github.com/ESCANORy/ESCANORy.github.io/releases/tag/v1.4.8",
+  "releaseUrl": "https://github.com/ESCANORy/ESCANORy.github.io/releases/tag/v1.4.9",
   "notes": {
-    "ar": "التنزيل أصبح أوضح وأكثر موثوقية مع استئناف المحاولة من حيث توقفت، وثلاثة خيارات لجودة التنزيل مع عرض الحجم الفعلي. تحسنت متابعة القراءة والبحث في الفصول وترتيبها، وأصبحت صفحة العمل أكثر ثباتًا مع غلاف أكبر يمكن فتحه وحفظه. يتضمن الإصدار تجربة أول تشغيل أفضل، واستعادة اتصال أوضح عند العودة من الخلفية، وإصلاحات وتحسينات عامة في الاستقرار والأداء.",
-    "en": "Downloads are clearer and more reliable, with retry from where a failed chapter stopped, three download-quality options, and the actual saved size shown during download. Continue Reading, chapter search and sorting, and the title page are improved, including a larger cover that can be opened and saved. This release also improves first launch and connection recovery after returning from the background, with general stability and performance fixes."
+    "ar": "تمت إضافة ميزة ترتيب المصادر في الصفحة الرئيسية، لتسهيل الوصول إلى المصادر المفضلة وتنظيمها بسرعة. تم إصلاح مشكلات MangaSid وMangaTek وتحسين استقرار التصفح والقراءة. تم إصلاح مشكلة تحميل الصور في MangaLik وMangaStarz. تمت إضافة مصادر جديدة: عربية: Hizo Manga، Manga Link، MangaLionz، MangaSpark؛ وإنجليزية: Drake Scans، Arena Scans. يتضمن هذا الإصدار تحسينات عامة في الأداء وسلاسة الاستخدام.",
+    "en": "Added source sorting on the home screen, making favorite sources easier to organize and access. Fixed MangaSid and MangaTek issues and improved browsing and reading stability. Fixed image-loading issues in MangaLik and MangaStarz. Added new sources: Arabic: Hizo Manga, Manga Link, MangaLionz, and MangaSpark; English: Drake Scans and Arena Scans. This release also includes broader performance improvements for a smoother, more reliable experience."
   },
   "isLatest": true,
-  "verifiedAt": "2026-08-26T16:02:13Z"
+  "verifiedAt": "2026-08-30T18:32:32Z"
 }
