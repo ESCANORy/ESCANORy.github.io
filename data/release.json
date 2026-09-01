@@ -1,20 +1,20 @@
 {
   "releaseStatus": "STABLE_AVAILABLE",
   "channel": "stable",
-  "versionName": "1.5.0",
-  "versionCode": 149,
-  "publishedAt": "2026-09-01T01:57:17Z",
+  "versionName": "1.5.2",
+  "versionCode": 151,
+  "publishedAt": "2026-09-01T07:30:21Z",
   "minAndroid": 26,
   "sizeBytes": 3844730,
-  "artifactUrl": "https://github.com/ESCANORy/ESCANORy.github.io/releases/download/v1.5.0/XPManga-v1.5.0.apk",
-  "apkSha256": "839a19cdffeebef29b66f9eaa3d1862f2c5bd4f9714ef5217b26f80d81d08c25",
+  "artifactUrl": "https://github.com/ESCANORy/ESCANORy.github.io/releases/download/v1.5.2/XPManga-v1.5.2.apk",
+  "apkSha256": "d49f88d23b3fc56d0f41fbc8896433e90db3d915ac55ec9de6b1db7a415a351c",
   "certificateSha256": "16a41427bd82b4ddae2ef3b2dee6e6e916644c660e843351546d11695b769a73",
   "packageName": "com.yahya.mangareader",
-  "releaseUrl": "https://github.com/ESCANORy/ESCANORy.github.io/releases/tag/v1.5.0",
+  "releaseUrl": "https://github.com/ESCANORy/ESCANORy.github.io/releases/tag/v1.5.2",
   "notes": {
-    "ar": "جودة أغلفة أعلى في الصفحة الرئيسية. فتح الفصول أسرع، والصفحات تظهر فور جاهزيتها. فلاتر الكتالوج تعمل في مصادر أكثر. تحسينات في الأداء وإصلاحات عامة. ترجمة فصول AI في MangaTek وMangaSid ما زالت غير متاحة؛ يعرض التطبيق صور الفصول الأصلية بدل الترجمة.",
-    "en": "Higher-quality covers on the home screen. Faster chapter opening, with pages appearing as soon as they are ready. Catalog filters work across more sources. Performance improvements and general fixes. AI chapter translation in MangaTek and MangaSid is still unavailable; the app shows the original chapter images instead."
+    "ar": "تنزيل أسرع للفصول. تصحيح اختيار «أول N» و«آخر N»، ويبدأ التنزيل الآن من الفصل الأقدم. تنزيل فصول MangaTek يحفظ الترجمة. تحسينات في الواجهة. ترجمة فصول AI تعمل في MangaTek وMangaSid.",
+    "en": "Faster chapter downloads. Fixed “First N” and “Last N” selection; downloads now start from the oldest chapter. Downloaded MangaTek chapters retain their translation. Interface improvements. AI chapter translation works in MangaTek and MangaSid."
   },
   "isLatest": true,
-  "verifiedAt": "2026-09-01T02:04:49Z"
+  "verifiedAt": "2026-09-01T07:35:43Z"
 }
