@@ -1,20 +1,20 @@
 {
   "releaseStatus": "STABLE_AVAILABLE",
   "channel": "stable",
-  "versionName": "1.4.9",
-  "versionCode": 143,
-  "publishedAt": "2026-08-30T18:32:32Z",
+  "versionName": "1.5.0",
+  "versionCode": 149,
+  "publishedAt": "2026-09-01T01:57:17Z",
   "minAndroid": 26,
-  "sizeBytes": 3827138,
-  "artifactUrl": "https://github.com/ESCANORy/ESCANORy.github.io/releases/download/v1.4.9/XPManga-v1.4.9.apk",
-  "apkSha256": "b263c508ad613ae336b0355f5254009ef758ebbe2ee431d89421899d8fa3e4f7",
+  "sizeBytes": 3844730,
+  "artifactUrl": "https://github.com/ESCANORy/ESCANORy.github.io/releases/download/v1.5.0/XPManga-v1.5.0.apk",
+  "apkSha256": "839a19cdffeebef29b66f9eaa3d1862f2c5bd4f9714ef5217b26f80d81d08c25",
   "certificateSha256": "16a41427bd82b4ddae2ef3b2dee6e6e916644c660e843351546d11695b769a73",
   "packageName": "com.yahya.mangareader",
-  "releaseUrl": "https://github.com/ESCANORy/ESCANORy.github.io/releases/tag/v1.4.9",
+  "releaseUrl": "https://github.com/ESCANORy/ESCANORy.github.io/releases/tag/v1.5.0",
   "notes": {
-    "ar": "تمت إضافة ميزة ترتيب المصادر في الصفحة الرئيسية، لتسهيل الوصول إلى المصادر المفضلة وتنظيمها بسرعة. تم إصلاح مشكلات MangaSid وMangaTek وتحسين استقرار التصفح والقراءة. تم إصلاح مشكلة تحميل الصور في MangaLik وMangaStarz. تمت إضافة مصادر جديدة: عربية: Hizo Manga، Manga Link، MangaLionz، MangaSpark؛ وإنجليزية: Drake Scans، Arena Scans. يتضمن هذا الإصدار تحسينات عامة في الأداء وسلاسة الاستخدام.",
-    "en": "Added source sorting on the home screen, making favorite sources easier to organize and access. Fixed MangaSid and MangaTek issues and improved browsing and reading stability. Fixed image-loading issues in MangaLik and MangaStarz. Added new sources: Arabic: Hizo Manga, Manga Link, MangaLionz, and MangaSpark; English: Drake Scans and Arena Scans. This release also includes broader performance improvements for a smoother, more reliable experience."
+    "ar": "جودة أغلفة أعلى في الصفحة الرئيسية. فتح الفصول أسرع، والصفحات تظهر فور جاهزيتها. فلاتر الكتالوج تعمل في مصادر أكثر. تحسينات في الأداء وإصلاحات عامة. ترجمة فصول AI في MangaTek وMangaSid ما زالت غير متاحة؛ يعرض التطبيق صور الفصول الأصلية بدل الترجمة.",
+    "en": "Higher-quality covers on the home screen. Faster chapter opening, with pages appearing as soon as they are ready. Catalog filters work across more sources. Performance improvements and general fixes. AI chapter translation in MangaTek and MangaSid is still unavailable; the app shows the original chapter images instead."
   },
   "isLatest": true,
-  "verifiedAt": "2026-08-30T18:32:32Z"
+  "verifiedAt": "2026-09-01T02:04:49Z"
 }
