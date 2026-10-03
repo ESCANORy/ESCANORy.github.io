@@ -1,20 +1,20 @@
 {
   "releaseStatus": "STABLE_AVAILABLE",
   "channel": "stable",
-  "versionName": "1.5.4",
-  "versionCode": 153,
-  "publishedAt": "2026-09-05T12:05:37Z",
+  "versionName": "1.6.0",
+  "versionCode": 200,
+  "publishedAt": "2026-10-03T15:08:17Z",
   "minAndroid": 26,
-  "sizeBytes": 3954034,
-  "artifactUrl": "https://github.com/ESCANORy/ESCANORy.github.io/releases/download/v1.5.4/XPManga-v1.5.4.apk",
-  "apkSha256": "54a85ea6d0f5c10f948648a0bdd31f60bdd14ff299a33535612fc3116b03f88e",
+  "sizeBytes": 49320994,
+  "artifactUrl": "https://github.com/ESCANORy/ESCANORy.github.io/releases/download/v1.6.0/XPManga-v1.6.0.apk",
+  "apkSha256": "cb2edea3163e8a52e1af4b40f26aec9897336066d93db9b25af3f7fe734a3cf0",
   "certificateSha256": "16a41427bd82b4ddae2ef3b2dee6e6e916644c660e843351546d11695b769a73",
   "packageName": "com.yahya.mangareader",
-  "releaseUrl": "https://github.com/ESCANORy/ESCANORy.github.io/releases/tag/v1.5.4",
+  "releaseUrl": "https://github.com/ESCANORy/ESCANORy.github.io/releases/tag/v1.6.0",
   "notes": {
-    "ar": "تحسين وضع «كل المصادر» بالتحميل التزايدي وترتيب «جديد» والمباعدة البصرية. تحسين تشخيص فشل تنزيل الفصول وإتاحة بلاغ مجهّل. استبدال حقلي نطاق التنزيل بسلايدر مزدوج أوضح.",
-    "en": "Improved All Sources with incremental loading, New ordering, and visual spacing. Improved chapter-download failure diagnostics with a privacy-safe report. Replaced the download-range text fields with a clearer dual-thumb slider."
+    "ar": "صفحة عمل جديدة كليًا بغلاف سينمائي وزر «تابع القراءة» يعيدك إلى الفصل والصفحة بالضبط. ترجمة الفصول الإنجليزية إلى العربية من القارئ. تصميم جديد للمكتبة والمصادر والتنزيلات والإعدادات مع 14 سمة. تنزيل أسرع وأكثر ثباتًا، وإشعارات لتحديثات المكتبة واكتمال التنزيل.",
+    "en": "A completely new work page with a cinematic cover and a Continue button that returns you to the exact chapter and page. Translate English chapters into Arabic from the reader. Redesigned library, sources, downloads and settings with 14 themes. Faster, more reliable downloads, plus notifications for library updates and completed downloads."
   },
   "isLatest": true,
-  "verifiedAt": "2026-09-05T12:05:37Z"
+  "verifiedAt": "2026-10-03T15:42:06Z"
 }
