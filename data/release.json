@@ -1,20 +1,20 @@
 {
   "releaseStatus": "STABLE_AVAILABLE",
   "channel": "stable",
-  "versionName": "1.6.1",
-  "versionCode": 201,
-  "publishedAt": "2026-10-03T19:31:18Z",
+  "versionName": "1.7.0",
+  "versionCode": 210,
+  "publishedAt": "2026-10-04T17:12:50Z",
   "minAndroid": 26,
-  "sizeBytes": 49320994,
-  "artifactUrl": "https://github.com/ESCANORy/ESCANORy.github.io/releases/download/v1.6.1/XPManga-v1.6.1.apk",
-  "apkSha256": "01757c0f62b5aa8cd4b3dd4ac3c3c6674639adcc721a073aa38d891a65309a5f",
+  "sizeBytes": 49370146,
+  "artifactUrl": "https://github.com/ESCANORy/ESCANORy.github.io/releases/download/v1.7.0/XPManga-v1.7.0.apk",
+  "apkSha256": "9e26d8b51705553e55f2662def68e9af84b8ad51fefdd9b78ce7b74f330a9848",
   "certificateSha256": "16a41427bd82b4ddae2ef3b2dee6e6e916644c660e843351546d11695b769a73",
   "packageName": "com.yahya.mangareader",
-  "releaseUrl": "https://github.com/ESCANORy/ESCANORy.github.io/releases/tag/v1.6.1",
+  "releaseUrl": "https://github.com/ESCANORy/ESCANORy.github.io/releases/tag/v1.7.0",
   "notes": {
-    "ar": "صفحة عمل جديدة كليًا بغلاف سينمائي وزر «تابع القراءة» يعيدك إلى الفصل والصفحة بالضبط. ترجمة الفصول الإنجليزية إلى العربية من القارئ. تصميم جديد للمكتبة والمصادر والتنزيلات والإعدادات مع 14 سمة. تنزيل أسرع وأكثر ثباتًا، وإشعارات لتحديثات المكتبة واكتمال التنزيل.",
-    "en": "A completely new work page with a cinematic cover and a Continue button that returns you to the exact chapter and page. Translate English chapters into Arabic from the reader. Redesigned library, sources, downloads and settings with 14 themes. Faster, more reliable downloads, plus notifications for library updates and completed downloads."
+    "ar": "أُضيف 23 مصدرًا جديدًا. الإنجليزية: WEBTOON، Comix، Manganato، MangaBats، MangaRead، ManhuaPlus، Galaxy Manga، Hive Toons، Ken Comics، Kingofshojo، KS Scans، Magus Toon، Manga Eclipse، Mangasushi، MangaYY، Manhwanex، Nyx Scans، Rackus Reads، Raven Scans، Sana Scans، Thunder Scans، Vortex Scans. العربية: Manga Tales (حكايات المانجا). مع تصفّح كامل لمصادر Madara الإنجليزية، وتحقق بلمسة واحدة للمصادر التي تطلبه مثل Comix، وتحميل أكثر ثباتًا للصفحات الكبيرة.",
+    "en": "23 new sources added. English: WEBTOON, Comix, Manganato, MangaBats, MangaRead, ManhuaPlus, Galaxy Manga, Hive Toons, Ken Comics, Kingofshojo, KS Scans, Magus Toon, Manga Eclipse, Mangasushi, MangaYY, Manhwanex, Nyx Scans, Rackus Reads, Raven Scans, Sana Scans, Thunder Scans, Vortex Scans. Arabic: Manga Tales. Plus full browsing for English Madara sources, one-tap verification for sources that need it such as Comix, and more reliable loading of large pages."
   },
   "isLatest": true,
-  "verifiedAt": "2026-10-03T19:35:32Z"
+  "verifiedAt": "2026-10-04T18:03:10Z"
 }
