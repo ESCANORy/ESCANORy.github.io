@@ -1,20 +1,20 @@
 {
   "releaseStatus": "STABLE_AVAILABLE",
   "channel": "stable",
-  "versionName": "1.7.0",
-  "versionCode": 210,
-  "publishedAt": "2026-10-04T17:12:50Z",
+  "versionName": "1.8.0",
+  "versionCode": 220,
+  "publishedAt": "2026-10-07T16:07:54Z",
   "minAndroid": 26,
-  "sizeBytes": 49370146,
-  "artifactUrl": "https://github.com/ESCANORy/ESCANORy.github.io/releases/download/v1.7.0/XPManga-v1.7.0.apk",
-  "apkSha256": "9e26d8b51705553e55f2662def68e9af84b8ad51fefdd9b78ce7b74f330a9848",
+  "sizeBytes": 49485795,
+  "artifactUrl": "https://github.com/ESCANORy/ESCANORy.github.io/releases/download/v1.8.0/XPManga-v1.8.0.apk",
+  "apkSha256": "289dd7c0b0a55041e7069d6f396e0705d05eec0329960246c2da2d7e7a794e9a",
   "certificateSha256": "16a41427bd82b4ddae2ef3b2dee6e6e916644c660e843351546d11695b769a73",
   "packageName": "com.yahya.mangareader",
-  "releaseUrl": "https://github.com/ESCANORy/ESCANORy.github.io/releases/tag/v1.7.0",
+  "releaseUrl": "https://github.com/ESCANORy/ESCANORy.github.io/releases/tag/v1.8.0",
   "notes": {
-    "ar": "أُضيف 23 مصدرًا جديدًا. الإنجليزية: WEBTOON، Comix، Manganato، MangaBats، MangaRead، ManhuaPlus، Galaxy Manga، Hive Toons، Ken Comics، Kingofshojo، KS Scans، Magus Toon، Manga Eclipse، Mangasushi، MangaYY، Manhwanex، Nyx Scans، Rackus Reads، Raven Scans، Sana Scans، Thunder Scans، Vortex Scans. العربية: Manga Tales (حكايات المانجا). مع تصفّح كامل لمصادر Madara الإنجليزية، وتحقق بلمسة واحدة للمصادر التي تطلبه مثل Comix، وتحميل أكثر ثباتًا للصفحات الكبيرة.",
-    "en": "23 new sources added. English: WEBTOON, Comix, Manganato, MangaBats, MangaRead, ManhuaPlus, Galaxy Manga, Hive Toons, Ken Comics, Kingofshojo, KS Scans, Magus Toon, Manga Eclipse, Mangasushi, MangaYY, Manhwanex, Nyx Scans, Rackus Reads, Raven Scans, Sana Scans, Thunder Scans, Vortex Scans. Arabic: Manga Tales. Plus full browsing for English Madara sources, one-tap verification for sources that need it such as Comix, and more reliable loading of large pages."
+    "ar": "بحث جديد كليًا في كل المصادر معًا: يظهر العمل الواحد في نتيجة واحدة مع أفضل نسخة أولًا، وتُصحَّح الأخطاء الإملائية، وتظهر اقتراحات العناوين أثناء الكتابة، والبحث بالعربية يجد العمل في المصادر الإنجليزية أيضًا. مع ترجمة أوضح وأجمل للفصول بخط عربي أفضل وتبييض أنظف للفقاعات، وترتيب صحيح للفصول المحمّلة في المكتبة، وعودة مصدر Comix للعمل.",
+    "en": "A brand-new search across every source at once: each work appears once with its best copy first, typos are corrected, titles are suggested as you type, and Arabic searches find works on English sources too. Plus clearer, better-looking chapter translations with improved Arabic lettering and cleaner bubbles, downloaded chapters in the right order in your library, and Comix working again."
   },
   "isLatest": true,
-  "verifiedAt": "2026-10-04T18:03:10Z"
+  "verifiedAt": "2026-10-07T16:13:11Z"
 }
