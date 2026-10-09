@@ -1,20 +1,20 @@
 {
   "releaseStatus": "STABLE_AVAILABLE",
   "channel": "stable",
-  "versionName": "1.8.0",
-  "versionCode": 220,
-  "publishedAt": "2026-10-07T16:07:54Z",
+  "versionName": "1.8.1",
+  "versionCode": 221,
+  "publishedAt": "2026-10-09T22:44:27Z",
   "minAndroid": 26,
-  "sizeBytes": 49485795,
-  "artifactUrl": "https://github.com/ESCANORy/ESCANORy.github.io/releases/download/v1.8.0/XPManga-v1.8.0.apk",
-  "apkSha256": "289dd7c0b0a55041e7069d6f396e0705d05eec0329960246c2da2d7e7a794e9a",
+  "sizeBytes": 49526095,
+  "artifactUrl": "https://github.com/ESCANORy/ESCANORy.github.io/releases/download/v1.8.1/XPManga-v1.8.1.apk",
+  "apkSha256": "f7687b8ffcdb9ee31f87b67dcd9fd7903896340fda5a2c97e86b583cb3281f09",
   "certificateSha256": "16a41427bd82b4ddae2ef3b2dee6e6e916644c660e843351546d11695b769a73",
   "packageName": "com.yahya.mangareader",
-  "releaseUrl": "https://github.com/ESCANORy/ESCANORy.github.io/releases/tag/v1.8.0",
+  "releaseUrl": "https://github.com/ESCANORy/ESCANORy.github.io/releases/tag/v1.8.1",
   "notes": {
-    "ar": "بحث جديد كليًا في كل المصادر معًا: يظهر العمل الواحد في نتيجة واحدة مع أفضل نسخة أولًا، وتُصحَّح الأخطاء الإملائية، وتظهر اقتراحات العناوين أثناء الكتابة، والبحث بالعربية يجد العمل في المصادر الإنجليزية أيضًا. مع ترجمة أوضح وأجمل للفصول بخط عربي أفضل وتبييض أنظف للفقاعات، وترتيب صحيح للفصول المحمّلة في المكتبة، وعودة مصدر Comix للعمل.",
-    "en": "A brand-new search across every source at once: each work appears once with its best copy first, typos are corrected, titles are suggested as you type, and Arabic searches find works on English sources too. Plus clearer, better-looking chapter translations with improved Arabic lettering and cleaner bubbles, downloaded chapters in the right order in your library, and Comix working again."
+    "ar": "ترجمة أسرع: الصفحة الأولى تظهر أسرع بعد الضغط على زر الترجمة، والصفحات التالية تُجهَّز وتُرسم أثناء قراءتك. مع إصلاح توقف التطبيق المفاجئ عند فتح المكتبة، وتمرير أنعم في القارئ، وجديد في الإعدادات: «البحث عن تحديثات» لمعرفة آخر إصدار فورًا، و«تقرير آخر توقف».",
+    "en": "Faster translation: the first page appears sooner after you tap Translate, and the next pages are prepared and drawn while you read. Plus a fix for the app closing unexpectedly when opening the library, smoother scrolling in the reader, and new in Settings: \"Check for updates\" to see the latest version right away, and \"Last stop report\"."
   },
   "isLatest": true,
-  "verifiedAt": "2026-10-07T16:13:11Z"
+  "verifiedAt": "2026-10-09T22:54:08Z"
 }
