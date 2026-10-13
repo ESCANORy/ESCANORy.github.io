@@ -1,20 +1,20 @@
 {
   "releaseStatus": "STABLE_AVAILABLE",
   "channel": "stable",
-  "versionName": "1.8.2",
-  "versionCode": 222,
-  "publishedAt": "2026-10-13T13:55:36Z",
+  "versionName": "1.8.3",
+  "versionCode": 223,
+  "publishedAt": "2026-10-13T16:23:51Z",
   "minAndroid": 26,
-  "sizeBytes": 49848915,
-  "artifactUrl": "https://github.com/ESCANORy/ESCANORy.github.io/releases/download/v1.8.2/XPManga-v1.8.2.apk",
-  "apkSha256": "dff1f5127cddab8b3101589e540d725eee148ed301b381b99755b04718cb59ad",
+  "sizeBytes": 49945491,
+  "artifactUrl": "https://github.com/ESCANORy/ESCANORy.github.io/releases/download/v1.8.3/XPManga-v1.8.3.apk",
+  "apkSha256": "18cecb36287d05e4fec34926e5f16d783a457f3c4854e76486bd8883926ee2e7",
   "certificateSha256": "16a41427bd82b4ddae2ef3b2dee6e6e916644c660e843351546d11695b769a73",
   "packageName": "com.yahya.mangareader",
-  "releaseUrl": "https://github.com/ESCANORy/ESCANORy.github.io/releases/tag/v1.8.2",
+  "releaseUrl": "https://github.com/ESCANORy/ESCANORy.github.io/releases/tag/v1.8.3",
   "notes": {
-    "ar": "استكشاف وبحث أوضح يتكيّفان مع الشاشات الكبيرة، وتنزيلات مرتّبة حسب العمل مع خيارَي تنزيل الفصل التالي تلقائيًا وحذف ما قرأته لتوفير المساحة. وجديد في القارئ: راحة العين بإضاءة دافئة للقراءة الليلية وتحكّم في السطوع، مع ترجمة نبذة العمل إلى العربية بلمسة واحدة، ومتابعة حالة بلاغاتك من «بلاغاتي».",
-    "en": "Clearer Explore and Search that adapt to large screens, and downloads organised by series with options to download the next chapter automatically and remove chapters you've read to save space. New in the reader: eye comfort with a warm light for night reading and brightness control, plus one-tap Arabic translation of a series' synopsis, and the status of your reports in \"My reports\"."
+    "ar": "مكتبة جديدة: «تابع القراءة» في الأعلى، وتبويب للفصول الجديدة، وعرض بالشبكة بأحجام مختلفة أو كقائمة، مع فرز وتصفية وبحث داخل مكتبتك. وبحث جديد في صفحة خاصة باقتراحات أثناء الكتابة ونتائج أوضح وتصفية حسب المصدر، وإعدادات أوضح وأسهل مع بحث سريع داخلها وصفحة «حول التطبيق» جديدة، وتحسينات في السرعة والثبات. وتابعنا على حساباتنا الرسمية في TikTok وInstagram وFacebook.",
+    "en": "A new Library with \"Continue reading\" at the top, a tab for new chapters, a grid in several sizes or a list, and sorting, filters and search inside your library. A new Search on its own page with suggestions as you type, clearer results and filtering by source, clearer and simpler Settings with quick search and a new About page, plus speed and stability improvements. Follow our official TikTok, Instagram and Facebook accounts."
   },
   "isLatest": true,
-  "verifiedAt": "2026-10-13T14:04:06Z"
+  "verifiedAt": "2026-10-13T16:32:13Z"
 }
