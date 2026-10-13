@@ -1,20 +1,20 @@
 {
   "releaseStatus": "STABLE_AVAILABLE",
   "channel": "stable",
-  "versionName": "1.8.3",
-  "versionCode": 223,
-  "publishedAt": "2026-10-13T16:23:51Z",
+  "versionName": "1.8.4",
+  "versionCode": 224,
+  "publishedAt": "2026-10-13T21:49:49Z",
   "minAndroid": 26,
-  "sizeBytes": 49945491,
-  "artifactUrl": "https://github.com/ESCANORy/ESCANORy.github.io/releases/download/v1.8.3/XPManga-v1.8.3.apk",
-  "apkSha256": "18cecb36287d05e4fec34926e5f16d783a457f3c4854e76486bd8883926ee2e7",
+  "sizeBytes": 49962687,
+  "artifactUrl": "https://github.com/ESCANORy/ESCANORy.github.io/releases/download/v1.8.4/XPManga-v1.8.4.apk",
+  "apkSha256": "a95f6617cac4430066160b6ef953ce30df8e6c3f0924285693c393ec22b9187a",
   "certificateSha256": "16a41427bd82b4ddae2ef3b2dee6e6e916644c660e843351546d11695b769a73",
   "packageName": "com.yahya.mangareader",
-  "releaseUrl": "https://github.com/ESCANORy/ESCANORy.github.io/releases/tag/v1.8.3",
+  "releaseUrl": "https://github.com/ESCANORy/ESCANORy.github.io/releases/tag/v1.8.4",
   "notes": {
-    "ar": "مكتبة جديدة: «تابع القراءة» في الأعلى، وتبويب للفصول الجديدة، وعرض بالشبكة بأحجام مختلفة أو كقائمة، مع فرز وتصفية وبحث داخل مكتبتك. وبحث جديد في صفحة خاصة باقتراحات أثناء الكتابة ونتائج أوضح وتصفية حسب المصدر، وإعدادات أوضح وأسهل مع بحث سريع داخلها وصفحة «حول التطبيق» جديدة، وتحسينات في السرعة والثبات. وتابعنا على حساباتنا الرسمية في TikTok وInstagram وFacebook.",
-    "en": "A new Library with \"Continue reading\" at the top, a tab for new chapters, a grid in several sizes or a list, and sorting, filters and search inside your library. A new Search on its own page with suggestions as you type, clearer results and filtering by source, clearer and simpler Settings with quick search and a new About page, plus speed and stability improvements. Follow our official TikTok, Instagram and Facebook accounts."
+    "ar": "لم تعد نافذة «تأكيد الوصول» تظهر بلا داعٍ في مصادر مثل Manga Link وMangaLionz، إذ يكتمل التحقق التلقائي بهدوء ويعيد التطبيق المحاولة وحده إذا رفض موقع المصدر الطلب مؤقتًا. ومصادر أسرع: الأعمال التي شاهدتها تظهر فورًا عند العودة إلى المصدر ثم تتحدّث في الخلفية، وصفحات المصادر المحمية تُحمَّل أسرع، مع تحسينات في الثبات.",
+    "en": "The \"Confirm access\" window no longer appears without reason on sources such as Manga Link and MangaLionz: automatic checks finish quietly and the app retries on its own when a source's site briefly refuses a request. Faster sources: works you already saw appear instantly when you return to a source and refresh in the background, and protected sources load their pages faster, plus stability improvements."
   },
   "isLatest": true,
-  "verifiedAt": "2026-10-13T16:32:13Z"
+  "verifiedAt": "2026-10-13T21:53:31Z"
 }
