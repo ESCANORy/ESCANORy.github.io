@@ -1,20 +1,20 @@
 {
   "releaseStatus": "STABLE_AVAILABLE",
   "channel": "stable",
-  "versionName": "1.8.6",
-  "versionCode": 226,
-  "publishedAt": "2026-10-14T12:17:58Z",
+  "versionName": "1.8.7",
+  "versionCode": 227,
+  "publishedAt": "2026-10-14T16:15:29Z",
   "minAndroid": 26,
-  "sizeBytes": 49995455,
-  "artifactUrl": "https://github.com/ESCANORy/ESCANORy.github.io/releases/download/v1.8.6/XPManga-v1.8.6.apk",
-  "apkSha256": "2b8f88bade495eadc883a1504e2ee9dd0c4acac08332f6ac6567b1a20c309244",
+  "sizeBytes": 51813572,
+  "artifactUrl": "https://github.com/ESCANORy/ESCANORy.github.io/releases/download/v1.8.7/XPManga-v1.8.7.apk",
+  "apkSha256": "f41102db518ba1feb606461da266eabbdba42116f9d95a11a3ac073006a33eaa",
   "certificateSha256": "16a41427bd82b4ddae2ef3b2dee6e6e916644c660e843351546d11695b769a73",
   "packageName": "com.yahya.mangareader",
-  "releaseUrl": "https://github.com/ESCANORy/ESCANORy.github.io/releases/tag/v1.8.6",
+  "releaseUrl": "https://github.com/ESCANORy/ESCANORy.github.io/releases/tag/v1.8.7",
   "notes": {
-    "ar": "دعم مصادر جديدة باللغات الكورية والصينية واليابانية تظهر في قائمة المصادر مع تحديث دليل المصادر، ومعظم المصادر التي تُضاف لاحقًا لن تحتاج إلى تحديث آخر للتطبيق، مع تحسين توافق محرك المصادر الجديد مع أجهزة Android وثبات تحميل صفحات الفصول.",
-    "en": "Support for new Korean, Chinese and Japanese sources that appear in the source list with the source-directory update, with most future sources needing no further app update, plus better compatibility of the new source engine with Android devices and steadier chapter page loading."
+    "ar": "ترجمة فصول المصادر الكورية والصينية واليابانية إلى العربية بنفس نظام ترجمة الفصول الإنجليزية، وظهور هذه المصادر في البحث مع البحث بالأسماء الأصلية للأعمال، وإصلاح الأغلفة وصور الفصول في عدد من المصادر الآسيوية مع تحديث دليل المصادر.",
+    "en": "Korean, Chinese and Japanese chapters now translate to Arabic with the same translation system as English chapters, these sources appear in search including by a work's original title, and covers and chapter images are fixed in several Asian sources with the source-directory update."
   },
   "isLatest": true,
-  "verifiedAt": "2026-10-14T12:27:24Z"
+  "verifiedAt": "2026-10-14T17:36:56Z"
 }
