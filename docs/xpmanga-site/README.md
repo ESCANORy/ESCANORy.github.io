@@ -1,17 +1,20 @@
-# XPManga Official Site
+# XPManga legacy host (escanory.github.io)
 
-This directory documents the static-first official website snapshot for `xpmanga.com`.
+The official XPManga website is **https://xpmanga.com**, built from `ESCANORy/XPManga-web`. This repository no longer publishes site content.
 
-The published routes are `/`, `/download`, `/sources`, `/help`, and their `/en/*` equivalents. The existing `xpmanga-sources/` signed control-plane paths must remain byte-for-byte unchanged by site releases. Public release and source projections live under `data/`.
+What this host still serves:
 
-The site has **no backend, analytics, session replay, or debug collector**. Every route includes route-specific title, description, Open Graph metadata, language direction, canonical and alternate links, plus meaningful HTML inside `#root` for crawlers and users when JavaScript is unavailable. The client application may replace that fallback after loading.
+- `xpmanga-app/` and `xpmanga-sources/`: the app's signed update and source control-plane paths. Site tooling must leave them byte-for-byte unchanged.
+- `data/`: public release and source projections, checked by `validate-public-data.mjs`.
+- Eight legacy page URLs (`/`, `/download/`, `/help/`, `/sources/` and their `/en/` versions). Each is an instant-redirect stub whose `rel=canonical` and `meta refresh` point to the final `xpmanga.com` URL in the same language. Google treats an instant meta refresh as a permanent redirect.
+- `404.html` (`noindex`, links to xpmanga.com) and `robots.txt` (`Allow: /`, so crawlers can see the redirects). No `sitemap.xml`.
 
-Regenerate and validate the checked-in static output from the repository root:
+The redirect map and stub templates live in `legacy-redirects.mjs`, the single source of truth. To change a target, edit that file, then regenerate and validate from the repository root:
 
 ```bash
 node docs/xpmanga-site/prerender-static.mjs
 node docs/xpmanga-site/validate-public-data.mjs
-node docs/xpmanga-site/validate-static-output.mjs
+node docs/xpmanga-site/validate-static-output.mjs --live
 ```
 
-When a separate build output exists at `docs/dist/public`, the scripts use it automatically. To validate another directory explicitly, set `XPMANGA_SITE_PUBLIC_DIR` to its absolute path.
+`--live` also requires each target to answer HTTP 200 without a redirect. Set `XPMANGA_SITE_PUBLIC_DIR` to validate another directory.
