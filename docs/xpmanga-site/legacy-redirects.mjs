@@ -7,11 +7,11 @@
 export const FINAL_ORIGIN = "https://xpmanga.com";
 
 export const redirects = [
-  { file: "index.html", locale: "ar", target: "https://xpmanga.com/ar/" },
+  { file: "index.html", locale: "ar", target: "https://xpmanga.com/" },
   { file: "download/index.html", locale: "ar", target: "https://xpmanga.com/download/" },
   { file: "help/index.html", locale: "ar", target: "https://xpmanga.com/help/" },
   { file: "sources/index.html", locale: "ar", target: "https://xpmanga.com/sources/" },
-  { file: "en/index.html", locale: "en", target: "https://xpmanga.com/" },
+  { file: "en/index.html", locale: "en", target: "https://xpmanga.com/en/" },
   { file: "en/download/index.html", locale: "en", target: "https://xpmanga.com/en/download/" },
   { file: "en/help/index.html", locale: "en", target: "https://xpmanga.com/en/help/" },
   { file: "en/sources/index.html", locale: "en", target: "https://xpmanga.com/en/sources/" },
@@ -65,8 +65,8 @@ export function render404() {
 <meta name="viewport" content="width=device-width, initial-scale=1">
 </head>
 <body>
-<p>This page does not exist. The official XPManga website is <a href="https://xpmanga.com/">xpmanga.com</a>.</p>
-<p dir="rtl" lang="ar">هذه الصفحة غير موجودة. موقع XPManga الرسمي هو <a href="https://xpmanga.com/ar/">xpmanga.com</a>.</p>
+<p>This page does not exist. The official XPManga website is <a href="https://xpmanga.com/en/">xpmanga.com</a>.</p>
+<p dir="rtl" lang="ar">هذه الصفحة غير موجودة. موقع XPManga الرسمي هو <a href="https://xpmanga.com/">xpmanga.com</a>.</p>
 </body>
 </html>
 `;

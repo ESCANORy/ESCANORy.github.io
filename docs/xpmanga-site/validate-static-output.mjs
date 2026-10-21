@@ -29,7 +29,8 @@ for (const route of redirects) {
   if (!target.startsWith(`${FINAL_ORIGIN}/`) || !target.endsWith("/")) fail(`${file}: target ${target} is not a final ${FINAL_ORIGIN} URL with a trailing slash`);
   if (seenTargets.has(target)) fail(`${file}: target ${target} is used twice`);
   seenTargets.add(target);
-  const expectedLocale = target === `${FINAL_ORIGIN}/` || target.startsWith(`${FINAL_ORIGIN}/en/`) ? "en" : "ar";
+  // xpmanga.com serves Arabic at the root and English under /en/ (XPManga-web PR #78).
+  const expectedLocale = target.startsWith(`${FINAL_ORIGIN}/en/`) ? "en" : "ar";
   if (locale !== expectedLocale) fail(`${file}: locale ${locale} does not match target language ${expectedLocale}`);
 
   const path = join(root, file);
