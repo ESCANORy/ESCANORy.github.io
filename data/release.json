@@ -1,20 +1,20 @@
 {
   "releaseStatus": "STABLE_AVAILABLE",
   "channel": "stable",
-  "versionName": "1.8.8",
-  "versionCode": 228,
-  "publishedAt": "2026-10-22T13:53:21Z",
+  "versionName": "1.9.0",
+  "versionCode": 229,
+  "publishedAt": "2026-10-22T20:13:37Z",
   "minAndroid": 26,
-  "sizeBytes": 51797524,
-  "artifactUrl": "https://github.com/ESCANORy/ESCANORy.github.io/releases/download/v1.8.8/XPManga-v1.8.8.apk",
-  "apkSha256": "1be190f8f3c0a74ad3a0739725785c7aba27c560d34b74e388e2d46f83a4d8e5",
+  "sizeBytes": 51877584,
+  "artifactUrl": "https://github.com/ESCANORy/ESCANORy.github.io/releases/download/v1.9.0/XPManga-v1.9.0.apk",
+  "apkSha256": "702a21de68b8ed1f6e3c0186abd28d83b83d978f73361b6e45af9d31e3ea62d3",
   "certificateSha256": "16a41427bd82b4ddae2ef3b2dee6e6e916644c660e843351546d11695b769a73",
   "packageName": "com.yahya.mangareader",
-  "releaseUrl": "https://github.com/ESCANORy/ESCANORy.github.io/releases/tag/v1.8.8",
+  "releaseUrl": "https://github.com/ESCANORy/ESCANORy.github.io/releases/tag/v1.9.0",
   "notes": {
-    "ar": "إصلاح التنقل بين الفصول المنزّلة ليتبع ترتيب الفصول الصحيح، وإصلاح إغلاق التطبيق عند فتح بعض الأعمال، وثبات أفضل مع المصادر الكورية والصينية واليابانية والبحث في كل المصادر، وتحسين تحميل فصول Comix، وإيقاف الإعلانات مؤقتًا مع بقاء الترجمة بالحصة المعتادة.",
-    "en": "Downloaded chapters now open next and previous in the real chapter order, the app no longer closes when opening some works, Korean, Chinese and Japanese sources and all-source search are more stable, Comix chapter loading is improved, and ads are paused while translation keeps the usual quota."
+    "ar": "رادار الفصول يخبرك بالفصل الجديد من أي مصدر، وذاكرة السلسلة تثبّت أسماء الشخصيات في الترجمة، وترجمة الفصول المنزّلة للقراءة بالعربية دون اتصال، وتحديد الفصول السابقة كمقروءة، وقوائم مخصصة في المكتبة، وتصفح المصدر بأكثر من تصنيف، وعرض حجم الفصل قبل التنزيل.",
+    "en": "Chapter radar tells you about new chapters from any source, series memory keeps character names consistent in translation, downloaded chapters can be translated to read in Arabic offline, mark previous chapters as read, custom library lists, browse a source by several genres, and see chapter size before downloading."
   },
   "isLatest": true,
-  "verifiedAt": "2026-10-22T13:58:12Z"
+  "verifiedAt": "2026-10-22T20:32:40Z"
 }
