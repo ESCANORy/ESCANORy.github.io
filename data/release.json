@@ -1,20 +1,20 @@
 {
   "releaseStatus": "STABLE_AVAILABLE",
   "channel": "stable",
-  "versionName": "1.8.7",
-  "versionCode": 227,
-  "publishedAt": "2026-10-14T16:15:29Z",
+  "versionName": "1.8.8",
+  "versionCode": 228,
+  "publishedAt": "2026-10-22T13:53:21Z",
   "minAndroid": 26,
-  "sizeBytes": 51813572,
-  "artifactUrl": "https://github.com/ESCANORy/ESCANORy.github.io/releases/download/v1.8.7/XPManga-v1.8.7.apk",
-  "apkSha256": "f41102db518ba1feb606461da266eabbdba42116f9d95a11a3ac073006a33eaa",
+  "sizeBytes": 51797524,
+  "artifactUrl": "https://github.com/ESCANORy/ESCANORy.github.io/releases/download/v1.8.8/XPManga-v1.8.8.apk",
+  "apkSha256": "1be190f8f3c0a74ad3a0739725785c7aba27c560d34b74e388e2d46f83a4d8e5",
   "certificateSha256": "16a41427bd82b4ddae2ef3b2dee6e6e916644c660e843351546d11695b769a73",
   "packageName": "com.yahya.mangareader",
-  "releaseUrl": "https://github.com/ESCANORy/ESCANORy.github.io/releases/tag/v1.8.7",
+  "releaseUrl": "https://github.com/ESCANORy/ESCANORy.github.io/releases/tag/v1.8.8",
   "notes": {
-    "ar": "ترجمة فصول المصادر الكورية والصينية واليابانية إلى العربية بنفس نظام ترجمة الفصول الإنجليزية، وظهور هذه المصادر في البحث مع البحث بالأسماء الأصلية للأعمال، وإصلاح الأغلفة وصور الفصول في عدد من المصادر الآسيوية مع تحديث دليل المصادر.",
-    "en": "Korean, Chinese and Japanese chapters now translate to Arabic with the same translation system as English chapters, these sources appear in search including by a work's original title, and covers and chapter images are fixed in several Asian sources with the source-directory update."
+    "ar": "إصلاح التنقل بين الفصول المنزّلة ليتبع ترتيب الفصول الصحيح، وإصلاح إغلاق التطبيق عند فتح بعض الأعمال، وثبات أفضل مع المصادر الكورية والصينية واليابانية والبحث في كل المصادر، وتحسين تحميل فصول Comix، وإيقاف الإعلانات مؤقتًا مع بقاء الترجمة بالحصة المعتادة.",
+    "en": "Downloaded chapters now open next and previous in the real chapter order, the app no longer closes when opening some works, Korean, Chinese and Japanese sources and all-source search are more stable, Comix chapter loading is improved, and ads are paused while translation keeps the usual quota."
   },
   "isLatest": true,
-  "verifiedAt": "2026-10-14T17:36:56Z"
+  "verifiedAt": "2026-10-22T13:58:12Z"
 }
