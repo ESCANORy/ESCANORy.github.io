@@ -1,20 +1,20 @@
 {
   "releaseStatus": "STABLE_AVAILABLE",
   "channel": "stable",
-  "versionName": "1.9.0",
-  "versionCode": 229,
-  "publishedAt": "2026-10-22T20:13:37Z",
+  "versionName": "2.0.0",
+  "versionCode": 230,
+  "publishedAt": "2026-10-23T00:24:56Z",
   "minAndroid": 26,
-  "sizeBytes": 51877584,
-  "artifactUrl": "https://github.com/ESCANORy/ESCANORy.github.io/releases/download/v1.9.0/XPManga-v1.9.0.apk",
-  "apkSha256": "702a21de68b8ed1f6e3c0186abd28d83b83d978f73361b6e45af9d31e3ea62d3",
+  "sizeBytes": 51957228,
+  "artifactUrl": "https://github.com/ESCANORy/ESCANORy.github.io/releases/download/v2.0.0/XPManga-v2.0.0.apk",
+  "apkSha256": "0f92b1230dfb19d23446d20c9e2d3af9031078fc3d28a0cbc4f5a3f8775aee6e",
   "certificateSha256": "16a41427bd82b4ddae2ef3b2dee6e6e916644c660e843351546d11695b769a73",
   "packageName": "com.yahya.mangareader",
-  "releaseUrl": "https://github.com/ESCANORy/ESCANORy.github.io/releases/tag/v1.9.0",
+  "releaseUrl": "https://github.com/ESCANORy/ESCANORy.github.io/releases/tag/v2.0.0",
   "notes": {
-    "ar": "رادار الفصول يخبرك بالفصل الجديد من أي مصدر، وذاكرة السلسلة تثبّت أسماء الشخصيات في الترجمة، وترجمة الفصول المنزّلة للقراءة بالعربية دون اتصال، وتحديد الفصول السابقة كمقروءة، وقوائم مخصصة في المكتبة، وتصفح المصدر بأكثر من تصنيف، وعرض حجم الفصل قبل التنزيل.",
-    "en": "Chapter radar tells you about new chapters from any source, series memory keeps character names consistent in translation, downloaded chapters can be translated to read in Arabic offline, mark previous chapters as read, custom library lists, browse a source by several genres, and see chapter size before downloading."
+    "ar": "محرك القصة يلخّص ما قرأته ويعرض الشخصيات ويجيب عن أسئلتك دون حرق، وبطاقة تذكير عند عودتك بعد غياب، ووضع تعلّم يعرض النص الأصلي مع الترجمة ويحفظ العبارات للمراجعة.",
+    "en": "The story engine recaps what you read, lists the characters and answers your questions without spoilers, a welcome-back card reminds you where you left off, and learning mode shows the original text beside the translation and saves phrases for review."
   },
   "isLatest": true,
-  "verifiedAt": "2026-10-22T20:32:40Z"
+  "verifiedAt": "2026-10-23T00:30:15Z"
 }
