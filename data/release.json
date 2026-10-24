@@ -1,20 +1,20 @@
 {
   "releaseStatus": "STABLE_AVAILABLE",
   "channel": "stable",
-  "versionName": "2.0.0",
-  "versionCode": 230,
-  "publishedAt": "2026-10-23T00:24:56Z",
+  "versionName": "2.0.1",
+  "versionCode": 232,
+  "publishedAt": "2026-10-24T18:35:09Z",
   "minAndroid": 26,
-  "sizeBytes": 51957228,
-  "artifactUrl": "https://github.com/ESCANORy/ESCANORy.github.io/releases/download/v2.0.0/XPManga-v2.0.0.apk",
-  "apkSha256": "0f92b1230dfb19d23446d20c9e2d3af9031078fc3d28a0cbc4f5a3f8775aee6e",
+  "sizeBytes": 51981528,
+  "artifactUrl": "https://github.com/ESCANORy/ESCANORy.github.io/releases/download/v2.0.1/XPManga-v2.0.1.apk",
+  "apkSha256": "0c2b1b0495d522466d5715e0c807ce91a3b87816d5f4df58b2ea94fc468946fe",
   "certificateSha256": "16a41427bd82b4ddae2ef3b2dee6e6e916644c660e843351546d11695b769a73",
   "packageName": "com.yahya.mangareader",
-  "releaseUrl": "https://github.com/ESCANORy/ESCANORy.github.io/releases/tag/v2.0.0",
+  "releaseUrl": "https://github.com/ESCANORy/ESCANORy.github.io/releases/tag/v2.0.1",
   "notes": {
-    "ar": "محرك القصة يلخّص ما قرأته ويعرض الشخصيات ويجيب عن أسئلتك دون حرق، وبطاقة تذكير عند عودتك بعد غياب، ووضع تعلّم يعرض النص الأصلي مع الترجمة ويحفظ العبارات للمراجعة.",
-    "en": "The story engine recaps what you read, lists the characters and answers your questions without spoilers, a welcome-back card reminds you where you left off, and learning mode shows the original text beside the translation and saves phrases for review."
+    "ar": "إصلاح التجمّد عند فتح التطبيق و«تحديد كل الفصول كمقروءة» ولوحة نمط العرض و«استمرار» في التمرير العمودي، وتنزيلات مترجمة تُعرض دون إنترنت كالترجمة المباشرة، مع إصلاحات في فلترة التصنيفات والقوائم.",
+    "en": "Fixes the launch freeze, Mark all as read, the display-mode panel and Continue in vertical scroll; translated downloads now look like live translation offline, plus multi-genre and list fixes."
   },
   "isLatest": true,
-  "verifiedAt": "2026-10-23T00:30:15Z"
+  "verifiedAt": "2026-10-24T18:41:17Z"
 }
