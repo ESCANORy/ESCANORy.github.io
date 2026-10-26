@@ -1,20 +1,20 @@
 {
   "releaseStatus": "STABLE_AVAILABLE",
   "channel": "stable",
-  "versionName": "2.0.2",
-  "versionCode": 233,
-  "publishedAt": "2026-10-26T00:27:57Z",
+  "versionName": "2.0.3",
+  "versionCode": 234,
+  "publishedAt": "2026-10-26T05:17:14Z",
   "minAndroid": 26,
-  "sizeBytes": 52007400,
-  "artifactUrl": "https://github.com/ESCANORy/ESCANORy.github.io/releases/download/v2.0.2/XPManga-v2.0.2.apk",
-  "apkSha256": "508a986a08aa987d162ea37d47a3f5753958bef244e225a65f0c241a1e0a9c77",
+  "sizeBytes": 52007396,
+  "artifactUrl": "https://github.com/ESCANORy/ESCANORy.github.io/releases/download/v2.0.3/XPManga-v2.0.3.apk",
+  "apkSha256": "71ccbb0c76fa3aa2a7db3f3cdd8344cfc7733f0c09e363971ab214561b2722bd",
   "certificateSha256": "16a41427bd82b4ddae2ef3b2dee6e6e916644c660e843351546d11695b769a73",
   "packageName": "com.yahya.mangareader",
-  "releaseUrl": "https://github.com/ESCANORy/ESCANORy.github.io/releases/tag/v2.0.2",
+  "releaseUrl": "https://github.com/ESCANORy/ESCANORy.github.io/releases/tag/v2.0.3",
   "notes": {
-    "ar": "رفوف تملكها بالكامل ولا يغيّرها التطبيق، مع إضافة جماعية وترتيب وتراجع، وترجمة التنزيلات القديمة دون إنترنت، وإكمال التحديث بعد منح إذن التثبيت، مع إصلاحات في التنزيل وإضافة المصادر.",
-    "en": "Shelves that are entirely yours with bulk add, reorder and undo, older translated downloads shown offline, updates that continue after the install permission, plus download and add-source fixes."
+    "ar": "إصلاح عاجل: البحث في المصادر اليابانية والكورية والصينية لم يعد يغلق التطبيق على أندرويد 8 إلى 12، مع فحص دائم يمنع تكرار هذا الخلل. يتضمن كل ما في 2.0.2.",
+    "en": "Hotfix: searching Japanese, Korean and Chinese sources no longer closes the app on Android 8 to 12, with a permanent check against this class of bug. Includes everything in 2.0.2."
   },
   "isLatest": true,
-  "verifiedAt": "2026-10-26T01:48:51Z"
+  "verifiedAt": "2026-10-26T06:02:24Z"
 }
