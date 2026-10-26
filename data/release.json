@@ -1,20 +1,20 @@
 {
   "releaseStatus": "STABLE_AVAILABLE",
   "channel": "stable",
-  "versionName": "2.0.1",
-  "versionCode": 232,
-  "publishedAt": "2026-10-24T18:35:09Z",
+  "versionName": "2.0.2",
+  "versionCode": 233,
+  "publishedAt": "2026-10-26T00:27:57Z",
   "minAndroid": 26,
-  "sizeBytes": 51981528,
-  "artifactUrl": "https://github.com/ESCANORy/ESCANORy.github.io/releases/download/v2.0.1/XPManga-v2.0.1.apk",
-  "apkSha256": "0c2b1b0495d522466d5715e0c807ce91a3b87816d5f4df58b2ea94fc468946fe",
+  "sizeBytes": 52007400,
+  "artifactUrl": "https://github.com/ESCANORy/ESCANORy.github.io/releases/download/v2.0.2/XPManga-v2.0.2.apk",
+  "apkSha256": "508a986a08aa987d162ea37d47a3f5753958bef244e225a65f0c241a1e0a9c77",
   "certificateSha256": "16a41427bd82b4ddae2ef3b2dee6e6e916644c660e843351546d11695b769a73",
   "packageName": "com.yahya.mangareader",
-  "releaseUrl": "https://github.com/ESCANORy/ESCANORy.github.io/releases/tag/v2.0.1",
+  "releaseUrl": "https://github.com/ESCANORy/ESCANORy.github.io/releases/tag/v2.0.2",
   "notes": {
-    "ar": "إصلاح التجمّد عند فتح التطبيق و«تحديد كل الفصول كمقروءة» ولوحة نمط العرض و«استمرار» في التمرير العمودي، وتنزيلات مترجمة تُعرض دون إنترنت كالترجمة المباشرة، مع إصلاحات في فلترة التصنيفات والقوائم.",
-    "en": "Fixes the launch freeze, Mark all as read, the display-mode panel and Continue in vertical scroll; translated downloads now look like live translation offline, plus multi-genre and list fixes."
+    "ar": "رفوف تملكها بالكامل ولا يغيّرها التطبيق، مع إضافة جماعية وترتيب وتراجع، وترجمة التنزيلات القديمة دون إنترنت، وإكمال التحديث بعد منح إذن التثبيت، مع إصلاحات في التنزيل وإضافة المصادر.",
+    "en": "Shelves that are entirely yours with bulk add, reorder and undo, older translated downloads shown offline, updates that continue after the install permission, plus download and add-source fixes."
   },
   "isLatest": true,
-  "verifiedAt": "2026-10-24T18:41:17Z"
+  "verifiedAt": "2026-10-26T01:48:51Z"
 }
