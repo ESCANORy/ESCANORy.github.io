@@ -1,20 +1,20 @@
 {
   "releaseStatus": "STABLE_AVAILABLE",
   "channel": "stable",
-  "versionName": "2.0.3",
-  "versionCode": 234,
-  "publishedAt": "2026-10-26T05:17:14Z",
+  "versionName": "2.0.4",
+  "versionCode": 235,
+  "publishedAt": "2026-10-26T14:43:33Z",
   "minAndroid": 26,
-  "sizeBytes": 52007396,
-  "artifactUrl": "https://github.com/ESCANORy/ESCANORy.github.io/releases/download/v2.0.3/XPManga-v2.0.3.apk",
-  "apkSha256": "71ccbb0c76fa3aa2a7db3f3cdd8344cfc7733f0c09e363971ab214561b2722bd",
+  "sizeBytes": 52009984,
+  "artifactUrl": "https://github.com/ESCANORy/ESCANORy.github.io/releases/download/v2.0.4/XPManga-v2.0.4.apk",
+  "apkSha256": "8675ebf0a57e6e326b4ddf041126e41cf4b43e1bb3dfd73ef4e4d7c347ea4a9a",
   "certificateSha256": "16a41427bd82b4ddae2ef3b2dee6e6e916644c660e843351546d11695b769a73",
   "packageName": "com.yahya.mangareader",
-  "releaseUrl": "https://github.com/ESCANORy/ESCANORy.github.io/releases/tag/v2.0.3",
+  "releaseUrl": "https://github.com/ESCANORy/ESCANORy.github.io/releases/tag/v2.0.4",
   "notes": {
-    "ar": "إصلاح عاجل: البحث في المصادر اليابانية والكورية والصينية لم يعد يغلق التطبيق على أندرويد 8 إلى 12، مع فحص دائم يمنع تكرار هذا الخلل. يتضمن كل ما في 2.0.2.",
-    "en": "Hotfix: searching Japanese, Korean and Chinese sources no longer closes the app on Android 8 to 12, with a permanent check against this class of bug. Includes everything in 2.0.2."
+    "ar": "التحديث من داخل التطبيق يكتمل الآن على أندرويد 9 و10، وزر جديد «التنزيل من الموقع» يظهر كلما تعذّر إكمال تحديث فلا تبقى عالقًا، وأزرار صفحة العمل صارت أخف وأوضح. يتضمن كل ما في 2.0.3.",
+    "en": "In-app updates now complete on Android 9 and 10, and a new “Download from website” button appears whenever an update cannot finish, so you are never stuck, and the work-page buttons are lighter and clearer. Includes everything in 2.0.3."
   },
   "isLatest": true,
-  "verifiedAt": "2026-10-26T06:02:24Z"
+  "verifiedAt": "2026-10-26T16:17:20Z"
 }
