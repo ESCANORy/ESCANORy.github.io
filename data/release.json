@@ -1,20 +1,20 @@
 {
   "releaseStatus": "STABLE_AVAILABLE",
   "channel": "stable",
-  "versionName": "2.0.7",
-  "versionCode": 238,
-  "publishedAt": "2026-10-29T06:10:56Z",
+  "versionName": "2.0.8",
+  "versionCode": 239,
+  "publishedAt": "2026-10-31T21:55:12Z",
   "minAndroid": 26,
-  "sizeBytes": 54163028,
-  "artifactUrl": "https://github.com/ESCANORy/ESCANORy.github.io/releases/download/v2.0.7/XPManga-v2.0.7.apk",
-  "apkSha256": "c392ace7486b26015899ad477b6f42203912df76cd42ff01b69fc02e0357b153",
+  "sizeBytes": 54179416,
+  "artifactUrl": "https://github.com/ESCANORy/ESCANORy.github.io/releases/download/v2.0.8/XPManga-v2.0.8.apk",
+  "apkSha256": "dbf8b5891595ca68e5e401d074fa6cc494875b2e081983eee0bf09f3c65b61b5",
   "certificateSha256": "16a41427bd82b4ddae2ef3b2dee6e6e916644c660e843351546d11695b769a73",
   "packageName": "com.yahya.mangareader",
-  "releaseUrl": "https://github.com/ESCANORy/ESCANORy.github.io/releases/tag/v2.0.7",
+  "releaseUrl": "https://github.com/ESCANORy/ESCANORy.github.io/releases/tag/v2.0.8",
   "notes": {
-    "ar": "تنزيل الفصول مترجمة من لوحة التنزيل ويعمل دون إنترنت ومع المصادر الإنجليزية، وزر «شاهد إعلانًا للمتابعة» بعد الفصول المجانية اليومية، والتمرير بالنقر وبأزرار الصوت في قارئ الويبتون، وإصلاح الإغلاق على WebView القديم. يتضمن كل ما في 2.0.6.",
-    "en": "Translated downloads from the download sheet that work offline and with English sources, \"Watch an ad to continue\" after the free daily chapters, tap and volume-key scrolling in the webtoon reader, and a fix for closing on old WebView. Includes everything in 2.0.6."
+    "ar": "إصلاح إغلاق التطبيق أثناء القراءة، وعودة أغلفة وصفحات فصول Olympus Staff (Team-X) وقراءة Dilar. تحسين الترجمة الفورية؛ وفي عينة اختبار من 45 صفحة انخفضت العناصر النصية الإنجليزية المتروكة إلى نحو النصف. يتضمن مزايا 2.0.7 والإصلاحات السابقة.",
+    "en": "Fixes the app closing while reading, restores Olympus Staff (Team-X) covers and chapter pages plus Dilar chapter reading, and improves instant translation. In a 45-page test sample, untranslated English text items fell to about half. Includes 2.0.7 and earlier improvements."
   },
   "isLatest": true,
-  "verifiedAt": "2026-10-29T06:21:59Z"
+  "verifiedAt": "2026-10-31T22:45:22Z"
 }
