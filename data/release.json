@@ -1,20 +1,20 @@
 {
   "releaseStatus": "STABLE_AVAILABLE",
   "channel": "stable",
-  "versionName": "2.0.8",
-  "versionCode": 239,
-  "publishedAt": "2026-10-31T21:55:12Z",
+  "versionName": "2.0.9",
+  "versionCode": 240,
+  "publishedAt": "2026-11-03T00:07:59Z",
   "minAndroid": 26,
-  "sizeBytes": 54179416,
-  "artifactUrl": "https://github.com/ESCANORy/ESCANORy.github.io/releases/download/v2.0.8/XPManga-v2.0.8.apk",
-  "apkSha256": "dbf8b5891595ca68e5e401d074fa6cc494875b2e081983eee0bf09f3c65b61b5",
+  "sizeBytes": 54198896,
+  "artifactUrl": "https://github.com/ESCANORy/ESCANORy.github.io/releases/download/v2.0.9/XPManga-v2.0.9.apk",
+  "apkSha256": "028a5273ab52c578aa9662ccfe1c96c7e5dfcbdb3be760ee90c19a2fc43e1272",
   "certificateSha256": "16a41427bd82b4ddae2ef3b2dee6e6e916644c660e843351546d11695b769a73",
   "packageName": "com.yahya.mangareader",
-  "releaseUrl": "https://github.com/ESCANORy/ESCANORy.github.io/releases/tag/v2.0.8",
+  "releaseUrl": "https://github.com/ESCANORy/ESCANORy.github.io/releases/tag/v2.0.9",
   "notes": {
-    "ar": "إصلاح إغلاق التطبيق أثناء القراءة، وعودة أغلفة وصفحات فصول Olympus Staff (Team-X) وقراءة Dilar. تحسين الترجمة الفورية؛ وفي عينة اختبار من 45 صفحة انخفضت العناصر النصية الإنجليزية المتروكة إلى نحو النصف. يتضمن مزايا 2.0.7 والإصلاحات السابقة.",
-    "en": "Fixes the app closing while reading, restores Olympus Staff (Team-X) covers and chapter pages plus Dilar chapter reading, and improves instant translation. In a 45-page test sample, untranslated English text items fell to about half. Includes 2.0.7 and earlier improvements."
+    "ar": "ترجمة فقاعات كانت تبقى بالإنجليزية بجانب المؤثرات الصوتية الكبيرة وبين صورتين في الويبتون، واستمرار الفصل إذا تعذّر رسم صفحة واحدة، وعودة صور Dilar في القراءة والتنزيل، ورسالة واضحة للفصول التي نشر منها الموقع صفحة واحدة. يتضمن مزايا 2.0.8 والإصلاحات السابقة.",
+    "en": "Translates balloons that stayed in English next to large sound effects and across two webtoon images, keeps a chapter going when one page cannot be drawn, brings back Dilar images in reading and downloads, and explains chapters the site published as a single page. Includes 2.0.8 and earlier improvements."
   },
   "isLatest": true,
-  "verifiedAt": "2026-10-31T22:45:22Z"
+  "verifiedAt": "2026-11-03T00:21:33Z"
 }
