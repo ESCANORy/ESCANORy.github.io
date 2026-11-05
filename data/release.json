@@ -1,20 +1,20 @@
 {
   "releaseStatus": "STABLE_AVAILABLE",
   "channel": "stable",
-  "versionName": "2.1.0",
-  "versionCode": 241,
-  "publishedAt": "2026-11-05T14:54:37Z",
+  "versionName": "2.1.1",
+  "versionCode": 242,
+  "publishedAt": "2026-11-05T20:00:11Z",
   "minAndroid": 26,
-  "sizeBytes": 54198896,
-  "artifactUrl": "https://github.com/ESCANORy/ESCANORy.github.io/releases/download/v2.1.0/XPManga-v2.1.0.apk",
-  "apkSha256": "eb50571caa3865562e3df5a609dbc98d09fd5ae75b04677717ac910c45cf0bdf",
+  "sizeBytes": 54685961,
+  "artifactUrl": "https://github.com/ESCANORy/ESCANORy.github.io/releases/download/v2.1.1/XPManga-v2.1.1.apk",
+  "apkSha256": "0d68f14ab72d876aa58615b4d1a7e27b54ad3b3c0b7d780484f0b69c1ea3bb00",
   "certificateSha256": "16a41427bd82b4ddae2ef3b2dee6e6e916644c660e843351546d11695b769a73",
   "packageName": "com.yahya.mangareader",
-  "releaseUrl": "https://github.com/ESCANORy/ESCANORy.github.io/releases/tag/v2.1.0",
+  "releaseUrl": "https://github.com/ESCANORy/ESCANORy.github.io/releases/tag/v2.1.1",
   "notes": {
-    "ar": "إصلاح حد الترجمة اليومي، وإصلاح الإغلاق المفاجئ للتطبيق، وفتح الفصول المترجمة المنزّلة كاملة وبترجمتها الصحيحة. يتضمن تحسينات الإصدارات السابقة.",
-    "en": "Fixes the daily translation limit and unexpected app closing, and downloaded translated chapters open complete with the correct translation. Includes earlier improvements."
+    "ar": "مجتمع XPManga للتعليق على الفصول مع غرف دردشة داخل كل تعليق، وإصلاح الفصول في MangaSid وMangaTime. يتضمن تحسينات الإصدارات السابقة.",
+    "en": "XPManga Community for chapter comments with chat rooms inside every comment, and fixed chapters on MangaSid and MangaTime. Includes earlier improvements."
   },
   "isLatest": true,
-  "verifiedAt": "2026-11-05T15:19:29Z"
+  "verifiedAt": "2026-11-05T20:06:33Z"
 }
