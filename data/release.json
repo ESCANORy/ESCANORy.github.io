@@ -1,20 +1,20 @@
 {
   "releaseStatus": "STABLE_AVAILABLE",
   "channel": "stable",
-  "versionName": "2.0.9",
-  "versionCode": 240,
-  "publishedAt": "2026-11-03T00:07:59Z",
+  "versionName": "2.1.0",
+  "versionCode": 241,
+  "publishedAt": "2026-11-05T14:54:37Z",
   "minAndroid": 26,
   "sizeBytes": 54198896,
-  "artifactUrl": "https://github.com/ESCANORy/ESCANORy.github.io/releases/download/v2.0.9/XPManga-v2.0.9.apk",
-  "apkSha256": "028a5273ab52c578aa9662ccfe1c96c7e5dfcbdb3be760ee90c19a2fc43e1272",
+  "artifactUrl": "https://github.com/ESCANORy/ESCANORy.github.io/releases/download/v2.1.0/XPManga-v2.1.0.apk",
+  "apkSha256": "eb50571caa3865562e3df5a609dbc98d09fd5ae75b04677717ac910c45cf0bdf",
   "certificateSha256": "16a41427bd82b4ddae2ef3b2dee6e6e916644c660e843351546d11695b769a73",
   "packageName": "com.yahya.mangareader",
-  "releaseUrl": "https://github.com/ESCANORy/ESCANORy.github.io/releases/tag/v2.0.9",
+  "releaseUrl": "https://github.com/ESCANORy/ESCANORy.github.io/releases/tag/v2.1.0",
   "notes": {
-    "ar": "ترجمة فقاعات كانت تبقى بالإنجليزية بجانب المؤثرات الصوتية الكبيرة وبين صورتين في الويبتون، واستمرار الفصل إذا تعذّر رسم صفحة واحدة، وعودة صور Dilar في القراءة والتنزيل، ورسالة واضحة للفصول التي نشر منها الموقع صفحة واحدة. يتضمن مزايا 2.0.8 والإصلاحات السابقة.",
-    "en": "Translates balloons that stayed in English next to large sound effects and across two webtoon images, keeps a chapter going when one page cannot be drawn, brings back Dilar images in reading and downloads, and explains chapters the site published as a single page. Includes 2.0.8 and earlier improvements."
+    "ar": "إصلاح حد الترجمة اليومي، وإصلاح الإغلاق المفاجئ للتطبيق، وفتح الفصول المترجمة المنزّلة كاملة وبترجمتها الصحيحة. يتضمن تحسينات الإصدارات السابقة.",
+    "en": "Fixes the daily translation limit and unexpected app closing, and downloaded translated chapters open complete with the correct translation. Includes earlier improvements."
   },
   "isLatest": true,
-  "verifiedAt": "2026-11-03T00:21:33Z"
+  "verifiedAt": "2026-11-05T15:19:29Z"
 }
