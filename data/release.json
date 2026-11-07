@@ -1,20 +1,20 @@
 {
   "releaseStatus": "STABLE_AVAILABLE",
   "channel": "stable",
-  "versionName": "2.1.1",
-  "versionCode": 242,
-  "publishedAt": "2026-11-05T20:00:11Z",
+  "versionName": "2.2.0",
+  "versionCode": 243,
+  "publishedAt": "2026-11-07T00:22:24Z",
   "minAndroid": 26,
-  "sizeBytes": 54685961,
-  "artifactUrl": "https://github.com/ESCANORy/ESCANORy.github.io/releases/download/v2.1.1/XPManga-v2.1.1.apk",
-  "apkSha256": "0d68f14ab72d876aa58615b4d1a7e27b54ad3b3c0b7d780484f0b69c1ea3bb00",
+  "sizeBytes": 55062620,
+  "artifactUrl": "https://github.com/ESCANORy/ESCANORy.github.io/releases/download/v2.2.0/XPManga-v2.2.0.apk",
+  "apkSha256": "12f64865fe7400bc4944ef1f62ffbe115351bb6c52506a92ed914f999977e974",
   "certificateSha256": "16a41427bd82b4ddae2ef3b2dee6e6e916644c660e843351546d11695b769a73",
   "packageName": "com.yahya.mangareader",
-  "releaseUrl": "https://github.com/ESCANORy/ESCANORy.github.io/releases/tag/v2.1.1",
+  "releaseUrl": "https://github.com/ESCANORy/ESCANORy.github.io/releases/tag/v2.2.0",
   "notes": {
-    "ar": "مجتمع XPManga للتعليق على الفصول مع غرف دردشة داخل كل تعليق، وإصلاح الفصول في MangaSid وMangaTime. يتضمن تحسينات الإصدارات السابقة.",
-    "en": "XPManga Community for chapter comments with chat rooms inside every comment, and fixed chapters on MangaSid and MangaTime. Includes earlier improvements."
+    "ar": "تبويب «حسابي» بملف شخصي وصورة وغلاف من المعرض، ونقاش في صفحة العمل، وتصميم جديد لإضافة مصدر ومصادري، وقوائم تحفظ موضعها، وإصلاح NatoManga وMangaKakalot وMangaTek وOlympus Staff. يتضمن تحسينات الإصدارات السابقة.",
+    "en": "An Account tab with a profile photo and cover from your gallery, discussion on every title page, redesigned Add source and My sources, lists that keep their position, and fixes for NatoManga, MangaKakalot, MangaTek and Olympus Staff. Includes earlier improvements."
   },
   "isLatest": true,
-  "verifiedAt": "2026-11-05T20:06:33Z"
+  "verifiedAt": "2026-11-07T00:47:51Z"
 }
