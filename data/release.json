@@ -1,20 +1,20 @@
 {
   "releaseStatus": "STABLE_AVAILABLE",
   "channel": "stable",
-  "versionName": "2.3.0",
-  "versionCode": 244,
-  "publishedAt": "2026-11-11T12:56:31Z",
+  "versionName": "2.3.1",
+  "versionCode": 245,
+  "publishedAt": "2026-11-11T23:10:55Z",
   "minAndroid": 26,
-  "sizeBytes": 55083472,
-  "artifactUrl": "https://github.com/ESCANORy/ESCANORy.github.io/releases/download/v2.3.0/XPManga-v2.3.0.apk",
-  "apkSha256": "23c1dfa0e45bd4b217a8692b34d797894169d468f729eb2f3b0a51fdd0c996c8",
+  "sizeBytes": 55099808,
+  "artifactUrl": "https://github.com/ESCANORy/ESCANORy.github.io/releases/download/v2.3.1/XPManga-v2.3.1.apk",
+  "apkSha256": "1c32c175413eba1da85f73cd045f2e55b70d83d7e8601f72ebca407c6ebf8604",
   "certificateSha256": "16a41427bd82b4ddae2ef3b2dee6e6e916644c660e843351546d11695b769a73",
   "packageName": "com.yahya.mangareader",
-  "releaseUrl": "https://github.com/ESCANORy/ESCANORy.github.io/releases/tag/v2.3.0",
+  "releaseUrl": "https://github.com/ESCANORy/ESCANORy.github.io/releases/tag/v2.3.1",
   "notes": {
-    "ar": "نقاط الخبرة والرتب من E إلى S، وتصنيف يومي وأسبوعي وشهري بتيجان حية، ومتجر إطارات حية، وملفات أعضاء قابلة للزيارة، وتقييم موحّد، وجولات إرشادية لكل شاشة، وإصلاح MangaSid والترجمة الجزئية وزر الفصل التالي عند متابعة فصل منزّل. يتضمن تحسينات الإصدارات السابقة.",
-    "en": "XP and ranks from E to S, daily, weekly and monthly leaderboards with living crowns, a living frame store, visitable member profiles, one rating per title, guided tours for every screen, and fixes for MangaSid, partial translations and Next chapter after continuing a download. Includes earlier improvements."
+    "ar": "نقاش واحد للعمل عبر المصادر بلغة الفصل نفسها، والرتب لا تغيّر الإعلانات، وقارئ الشاشة يقرأ صفحات الخبرة وحدها. ومعه كل جديد 2.3.0: الخبرة والرتب والتصنيف ومتجر الإطارات الحية وملفات الأعضاء والتقييم الموحّد والجولات الإرشادية. يتضمن تحسينات الإصدارات السابقة.",
+    "en": "One discussion per title across sources in the same language, ranks never change ads, and TalkBack reads the XP pages alone. Plus everything new in 2.3.0: XP and ranks, leaderboards, the living frame store, member profiles, one rating per title and guided tours. Includes earlier improvements."
   },
   "isLatest": true,
-  "verifiedAt": "2026-11-11T14:38:54Z"
+  "verifiedAt": "2026-11-11T23:20:28Z"
 }
