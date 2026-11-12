@@ -1,20 +1,20 @@
 {
   "releaseStatus": "STABLE_AVAILABLE",
   "channel": "stable",
-  "versionName": "2.3.2",
-  "versionCode": 246,
-  "publishedAt": "2026-11-12T06:34:06Z",
+  "versionName": "2.3.3",
+  "versionCode": 247,
+  "publishedAt": "2026-11-12T23:53:00Z",
   "minAndroid": 26,
-  "sizeBytes": 55100152,
-  "artifactUrl": "https://github.com/ESCANORy/ESCANORy.github.io/releases/download/v2.3.2/XPManga-v2.3.2.apk",
-  "apkSha256": "b50528534d02ce68d1fb617543d149415bf4265ca7a3b02ba65199c155dcbf79",
+  "sizeBytes": 55116624,
+  "artifactUrl": "https://github.com/ESCANORy/ESCANORy.github.io/releases/download/v2.3.3/XPManga-v2.3.3.apk",
+  "apkSha256": "12606b9c5af99b346b65ea79376675bf7729f29e4759fb568047c1804fa72526",
   "certificateSha256": "16a41427bd82b4ddae2ef3b2dee6e6e916644c660e843351546d11695b769a73",
   "packageName": "com.yahya.mangareader",
-  "releaseUrl": "https://github.com/ESCANORy/ESCANORy.github.io/releases/tag/v2.3.2",
+  "releaseUrl": "https://github.com/ESCANORy/ESCANORy.github.io/releases/tag/v2.3.3",
   "notes": {
-    "ar": "نقاش واحد وتقييم واحد للعمل مهما اختلف المصدر أو اسم العمل، يظهران بمجرد فتح صفحته. ومعه كل جديد 2.3.0 و2.3.1: الخبرة والرتب والتصنيف ومتجر الإطارات الحية وملفات الأعضاء والجولات الإرشادية. يتضمن تحسينات الإصدارات السابقة.",
-    "en": "One discussion and one rating per title, whatever the source or the name, shown as soon as you open its page. Plus everything new in 2.3.0 and 2.3.1: XP and ranks, leaderboards, the living frame store, member profiles and guided tours. Includes earlier improvements."
+    "ar": "عودة أغلفة Comix وإكمال غلاف الأعمال المحفوظة بلا غلاف، وفصول Dilar كاملة مهما كان وضع القراءة في الموقع، وبلاغ تنزيل أوضح. ومعه كل جديد 2.3: النقاش والتقييم الموحّدان، والخبرة والرتب والتصنيف ومتجر الإطارات الحية. يتضمن تحسينات الإصدارات السابقة.",
+    "en": "Comix covers are back (saved titles get their missing cover), Dilar chapters open in full whatever the site's reading mode, and clearer download reports. Plus everything new in 2.3: shared discussions and ratings, XP and ranks, leaderboards and the living frame store. Includes earlier improvements."
   },
   "isLatest": true,
-  "verifiedAt": "2026-11-12T06:41:56Z"
+  "verifiedAt": "2026-11-12T23:59:25Z"
 }
