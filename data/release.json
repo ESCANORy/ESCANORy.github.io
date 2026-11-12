@@ -1,20 +1,20 @@
 {
   "releaseStatus": "STABLE_AVAILABLE",
   "channel": "stable",
-  "versionName": "2.3.1",
-  "versionCode": 245,
-  "publishedAt": "2026-11-11T23:10:55Z",
+  "versionName": "2.3.2",
+  "versionCode": 246,
+  "publishedAt": "2026-11-12T06:34:06Z",
   "minAndroid": 26,
-  "sizeBytes": 55099808,
-  "artifactUrl": "https://github.com/ESCANORy/ESCANORy.github.io/releases/download/v2.3.1/XPManga-v2.3.1.apk",
-  "apkSha256": "1c32c175413eba1da85f73cd045f2e55b70d83d7e8601f72ebca407c6ebf8604",
+  "sizeBytes": 55100152,
+  "artifactUrl": "https://github.com/ESCANORy/ESCANORy.github.io/releases/download/v2.3.2/XPManga-v2.3.2.apk",
+  "apkSha256": "b50528534d02ce68d1fb617543d149415bf4265ca7a3b02ba65199c155dcbf79",
   "certificateSha256": "16a41427bd82b4ddae2ef3b2dee6e6e916644c660e843351546d11695b769a73",
   "packageName": "com.yahya.mangareader",
-  "releaseUrl": "https://github.com/ESCANORy/ESCANORy.github.io/releases/tag/v2.3.1",
+  "releaseUrl": "https://github.com/ESCANORy/ESCANORy.github.io/releases/tag/v2.3.2",
   "notes": {
-    "ar": "نقاش واحد للعمل عبر المصادر بلغة الفصل نفسها، والرتب لا تغيّر الإعلانات، وقارئ الشاشة يقرأ صفحات الخبرة وحدها. ومعه كل جديد 2.3.0: الخبرة والرتب والتصنيف ومتجر الإطارات الحية وملفات الأعضاء والتقييم الموحّد والجولات الإرشادية. يتضمن تحسينات الإصدارات السابقة.",
-    "en": "One discussion per title across sources in the same language, ranks never change ads, and TalkBack reads the XP pages alone. Plus everything new in 2.3.0: XP and ranks, leaderboards, the living frame store, member profiles, one rating per title and guided tours. Includes earlier improvements."
+    "ar": "نقاش واحد وتقييم واحد للعمل مهما اختلف المصدر أو اسم العمل، يظهران بمجرد فتح صفحته. ومعه كل جديد 2.3.0 و2.3.1: الخبرة والرتب والتصنيف ومتجر الإطارات الحية وملفات الأعضاء والجولات الإرشادية. يتضمن تحسينات الإصدارات السابقة.",
+    "en": "One discussion and one rating per title, whatever the source or the name, shown as soon as you open its page. Plus everything new in 2.3.0 and 2.3.1: XP and ranks, leaderboards, the living frame store, member profiles and guided tours. Includes earlier improvements."
   },
   "isLatest": true,
-  "verifiedAt": "2026-11-11T23:20:28Z"
+  "verifiedAt": "2026-11-12T06:41:56Z"
 }
