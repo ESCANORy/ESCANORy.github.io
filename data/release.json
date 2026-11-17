@@ -1,20 +1,20 @@
 {
   "releaseStatus": "STABLE_AVAILABLE",
   "channel": "stable",
-  "versionName": "2.3.4",
-  "versionCode": 248,
-  "publishedAt": "2026-11-16T18:05:31Z",
+  "versionName": "2.3.5",
+  "versionCode": 249,
+  "publishedAt": "2026-11-17T10:56:09Z",
   "minAndroid": 26,
-  "sizeBytes": 55205416,
-  "artifactUrl": "https://github.com/ESCANORy/ESCANORy.github.io/releases/download/v2.3.4/XPManga-v2.3.4.apk",
-  "apkSha256": "d995ea7fe1cff291afa2954c95aef0ee7915c603d107142e44862fe96cb01d4d",
+  "sizeBytes": 55481081,
+  "artifactUrl": "https://github.com/ESCANORy/ESCANORy.github.io/releases/download/v2.3.5/XPManga-v2.3.5.apk",
+  "apkSha256": "35b8bdc955cd2c67197d4ac9dbb2638f297253422353a4a2902ad7c8b101c82e",
   "certificateSha256": "16a41427bd82b4ddae2ef3b2dee6e6e916644c660e843351546d11695b769a73",
   "packageName": "com.yahya.mangareader",
-  "releaseUrl": "https://github.com/ESCANORy/ESCANORy.github.io/releases/tag/v2.3.4",
+  "releaseUrl": "https://github.com/ESCANORy/ESCANORy.github.io/releases/tag/v2.3.5",
   "notes": {
-    "ar": "نظام XP الجديد: الخزنة، وقاعة الأوائل وسجل الشرف، وملف الشهر وهدف المجتمع، وكشف نتيجة الأسبوع والشهر. المتجر متوقف حتى تصدر أول مجموعة إطارات. وإصلاح النسخ الاحتياطي وإضافة المواقع بعنوانها. يتضمن تحسينات الإصدارات السابقة.",
-    "en": "The new XP system: the vault, the hall of firsts and honors, the month file and community goal, and week and month results. The store is paused until the first frame collection. Backups and adding sites by address are fixed. Includes earlier improvements."
+    "ar": "إشعارات فورية للفصول الجديدة يؤكدها القرّاء ويتحقق منها تطبيقك، مع فحص خلفي أخف على البطارية، وبطاقة لحالة الإشعارات وإشعار تجريبي. وإصلاح صور MangaTek الطويلة والتحقق في Comix. يتضمن تحسينات الإصدارات السابقة.",
+    "en": "Instant new-chapter alerts confirmed by readers and verified by your app, a lighter background check, and an alerts health card with a test alert. Fixes long MangaTek images and Comix verification. Includes earlier improvements."
   },
   "isLatest": true,
-  "verifiedAt": "2026-11-16T18:53:46Z"
+  "verifiedAt": "2026-11-17T11:15:24Z"
 }
