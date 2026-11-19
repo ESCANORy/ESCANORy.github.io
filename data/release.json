@@ -1,20 +1,20 @@
 {
   "releaseStatus": "STABLE_AVAILABLE",
   "channel": "stable",
-  "versionName": "2.3.6",
-  "versionCode": 250,
-  "publishedAt": "2026-11-17T22:25:50Z",
+  "versionName": "2.3.7",
+  "versionCode": 251,
+  "publishedAt": "2026-11-19T01:42:18Z",
   "minAndroid": 26,
-  "sizeBytes": 55510785,
-  "artifactUrl": "https://github.com/ESCANORy/ESCANORy.github.io/releases/download/v2.3.6/XPManga-v2.3.6.apk",
-  "apkSha256": "781af2c3aaab483da290a878b1345dae814b2a96f0c5807aed2ab842b98ff38d",
+  "sizeBytes": 57393733,
+  "artifactUrl": "https://github.com/ESCANORy/ESCANORy.github.io/releases/download/v2.3.7/XPManga-v2.3.7.apk",
+  "apkSha256": "7a183b7c9f933e225fe8db588fcba46e10ed94148237ab2f1b8060d5df697fd0",
   "certificateSha256": "16a41427bd82b4ddae2ef3b2dee6e6e916644c660e843351546d11695b769a73",
   "packageName": "com.yahya.mangareader",
-  "releaseUrl": "https://github.com/ESCANORy/ESCANORy.github.io/releases/tag/v2.3.6",
+  "releaseUrl": "https://github.com/ESCANORy/ESCANORy.github.io/releases/tag/v2.3.7",
   "notes": {
-    "ar": "مصادر أخرى للعمل نفسه، وفتح الفصل غير المتاح من مصدر آخر بضغطة، ونقاشات الفصول في نقاش العمل.",
-    "en": "Other sources for the same title, one-tap opening of unavailable chapters from another source and chapter discussions in the title's discussion."
+    "ar": "نقل المكتبة وتقدّم القراءة من Mihon وTachiyomi، وواجهة بـ12 لغة، ورسائل استعادة أوضح.",
+    "en": "Transfer your library and reading progress from Mihon and Tachiyomi, the app in 12 languages and clearer restore messages."
   },
   "isLatest": true,
-  "verifiedAt": "2026-11-17T22:43:11Z"
+  "verifiedAt": "2026-11-19T01:59:16Z"
 }
