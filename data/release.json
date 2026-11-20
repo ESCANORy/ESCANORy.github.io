@@ -1,20 +1,20 @@
 {
   "releaseStatus": "STABLE_AVAILABLE",
   "channel": "stable",
-  "versionName": "2.3.7",
-  "versionCode": 251,
-  "publishedAt": "2026-11-19T01:42:18Z",
+  "versionName": "2.4.0",
+  "versionCode": 252,
+  "publishedAt": "2026-11-20T03:34:32Z",
   "minAndroid": 26,
-  "sizeBytes": 57393733,
-  "artifactUrl": "https://github.com/ESCANORy/ESCANORy.github.io/releases/download/v2.3.7/XPManga-v2.3.7.apk",
-  "apkSha256": "7a183b7c9f933e225fe8db588fcba46e10ed94148237ab2f1b8060d5df697fd0",
+  "sizeBytes": 32205573,
+  "artifactUrl": "https://github.com/ESCANORy/ESCANORy.github.io/releases/download/v2.4.0/XPManga-v2.4.0.apk",
+  "apkSha256": "5d32dcaa7e021b96ab4345e43d673ad12bc8a0987c0a2e701f971d771acd72e3",
   "certificateSha256": "16a41427bd82b4ddae2ef3b2dee6e6e916644c660e843351546d11695b769a73",
   "packageName": "com.yahya.mangareader",
-  "releaseUrl": "https://github.com/ESCANORy/ESCANORy.github.io/releases/tag/v2.3.7",
+  "releaseUrl": "https://github.com/ESCANORy/ESCANORy.github.io/releases/tag/v2.4.0",
   "notes": {
-    "ar": "نقل المكتبة وتقدّم القراءة من Mihon وTachiyomi، وواجهة بـ12 لغة، ورسائل استعادة أوضح.",
-    "en": "Transfer your library and reading progress from Mihon and Tachiyomi, the app in 12 languages and clearer restore messages."
+    "ar": "نسخ احتياطي تلقائي مشفّر إلى مجلد تختاره، ونقل المكتبة من Kotatsu وKotatsu-Redo، وإخفاء أعمال البالغين افتراضيًا، وترجمة أدق للويبتون، وملف تثبيت أصغر.",
+    "en": "Encrypted automatic backups to a folder you choose, library transfer from Kotatsu and Kotatsu-Redo, adult content hidden by default, better WEBTOON translation and a smaller install file."
   },
   "isLatest": true,
-  "verifiedAt": "2026-11-19T01:59:16Z"
+  "verifiedAt": "2026-11-20T12:27:00Z"
 }
