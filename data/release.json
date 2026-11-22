@@ -1,20 +1,20 @@
 {
   "releaseStatus": "STABLE_AVAILABLE",
   "channel": "stable",
-  "versionName": "2.4.0",
-  "versionCode": 252,
-  "publishedAt": "2026-11-20T03:34:32Z",
+  "versionName": "2.4.2",
+  "versionCode": 254,
+  "publishedAt": "2026-11-22T15:10:52Z",
   "minAndroid": 26,
-  "sizeBytes": 32205573,
-  "artifactUrl": "https://github.com/ESCANORy/ESCANORy.github.io/releases/download/v2.4.0/XPManga-v2.4.0.apk",
-  "apkSha256": "5d32dcaa7e021b96ab4345e43d673ad12bc8a0987c0a2e701f971d771acd72e3",
+  "sizeBytes": 32510337,
+  "artifactUrl": "https://github.com/ESCANORy/ESCANORy.github.io/releases/download/v2.4.2/XPManga-v2.4.2.apk",
+  "apkSha256": "bc68ec29d53afe7f818c536d65b02a3c8677dae7e6da7b080f0d6c2f22678594",
   "certificateSha256": "16a41427bd82b4ddae2ef3b2dee6e6e916644c660e843351546d11695b769a73",
   "packageName": "com.yahya.mangareader",
-  "releaseUrl": "https://github.com/ESCANORy/ESCANORy.github.io/releases/tag/v2.4.0",
+  "releaseUrl": "https://github.com/ESCANORy/ESCANORy.github.io/releases/tag/v2.4.2",
   "notes": {
-    "ar": "نسخ احتياطي تلقائي مشفّر إلى مجلد تختاره، ونقل المكتبة من Kotatsu وKotatsu-Redo، وإخفاء أعمال البالغين افتراضيًا، وترجمة أدق للويبتون، وملف تثبيت أصغر.",
-    "en": "Encrypted automatic backups to a folder you choose, library transfer from Kotatsu and Kotatsu-Redo, adult content hidden by default, better WEBTOON translation and a smaller install file."
+    "ar": "اقرأ بلغتك: ترجمة فورية للفصول إلى 12 لغة، و48 مصدرًا جديدًا بعشر لغات، وتنزيلات مترجمة بلغتك، وإصلاح إغلاق التطبيق عند فتح «المصادر الأخرى».",
+    "en": "Read in your language: instant chapter translation into 12 languages, 48 new sources in ten languages, and downloads in your language, plus a fix for the app closing from \"Other sources\"."
   },
   "isLatest": true,
-  "verifiedAt": "2026-11-20T12:27:00Z"
+  "verifiedAt": "2026-11-22T15:19:38Z"
 }
