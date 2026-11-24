@@ -12,8 +12,8 @@
   "packageName": "com.yahya.mangareader",
   "releaseUrl": "https://github.com/ESCANORy/ESCANORy.github.io/releases/tag/v2.4.3",
   "notes": {
-    "ar": "المصادر صارت تُحدَّث من دليل المصادر الموقّع دون انتظار تحديث للتطبيق، مع مصادر جديدة وفتح أسرع للفصول، وتبقى مكتبتك وتقدّم قراءتك كما هما.",
-    "en": "Sources now update through the signed sources directory without waiting for an app update, with new sources and faster chapter loading; your library and reading progress stay as they are."
+    "ar": "مصادر جديدة، وإصلاح المصادر صار يصلك أسرع دون انتظار تحديث للتطبيق، مع فتح أسرع للفصول وتحميل أفضل للصور. مكتبتك وتقدّم قراءتك كما هي.",
+    "en": "New sources, and source fixes now reach you faster without waiting for an app update, plus faster chapter opening and better image loading. Your library and reading progress stay as they are."
   },
   "isLatest": true,
   "verifiedAt": "2026-11-24T07:06:14Z"
