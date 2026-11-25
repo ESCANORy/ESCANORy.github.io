@@ -1,20 +1,20 @@
 {
   "releaseStatus": "STABLE_AVAILABLE",
   "channel": "stable",
-  "versionName": "2.4.4",
-  "versionCode": 256,
-  "publishedAt": "2026-11-24T18:37:57Z",
+  "versionName": "2.4.5",
+  "versionCode": 257,
+  "publishedAt": "2026-11-25T23:07:36Z",
   "minAndroid": 26,
-  "sizeBytes": 32512187,
-  "artifactUrl": "https://github.com/ESCANORy/ESCANORy.github.io/releases/download/v2.4.4/XPManga-v2.4.4.apk",
-  "apkSha256": "bf9f93608f5ce8667d3b40179cdface000ee287690d7289af2e3c949cc367918",
+  "sizeBytes": 32512599,
+  "artifactUrl": "https://github.com/ESCANORy/ESCANORy.github.io/releases/download/v2.4.5/XPManga-v2.4.5.apk",
+  "apkSha256": "a1e13eb3741013c1ed4fbab9cf26deb82c33405436cdc60b11287acb7f505b66",
   "certificateSha256": "16a41427bd82b4ddae2ef3b2dee6e6e916644c660e843351546d11695b769a73",
   "packageName": "com.yahya.mangareader",
-  "releaseUrl": "https://github.com/ESCANORy/ESCANORy.github.io/releases/tag/v2.4.4",
+  "releaseUrl": "https://github.com/ESCANORy/ESCANORy.github.io/releases/tag/v2.4.5",
   "notes": {
-    "ar": "إصلاح خروج التطبيق المفاجئ عند فتح المصادر، مع ترتيب أوضح للمصادر عند إضافتها وشعارات تميّز كل مصدر، وإصلاح مصدري MangaSid وComix. مكتبتك وتقدّم قراءتك كما هي.",
-    "en": "Fixed the app closing by itself when opening sources, with clearer source ordering when adding a source, logos for each source, and fixes for the MangaSid and Comix sources. Your library and reading progress stay as they are."
+    "ar": "إصلاح مصادر Comix وMangaSid وRaven Scans: صور فصول Comix وتنزيلها دون طلبات تحقق متكررة، وظهور كل صفحات MangaSid وأغلفتها، ولم يعد Raven Scans يطلب التحقق مرة بعد مرة. مكتبتك وتقدّم قراءتك كما هي.",
+    "en": "Fixes for the Comix, MangaSid and Raven Scans sources: Comix chapter images and downloads work without repeated verification prompts, every MangaSid page and cover shows, and Raven Scans no longer asks you to verify again and again. Your library and reading progress stay as they are."
   },
   "isLatest": true,
-  "verifiedAt": "2026-11-24T18:55:08Z"
+  "verifiedAt": "2026-11-25T23:16:55Z"
 }
