@@ -1,20 +1,20 @@
 {
   "releaseStatus": "STABLE_AVAILABLE",
   "channel": "stable",
-  "versionName": "2.4.5",
-  "versionCode": 257,
-  "publishedAt": "2026-11-25T23:07:36Z",
+  "versionName": "2.4.6",
+  "versionCode": 258,
+  "publishedAt": "2026-11-27T01:34:01Z",
   "minAndroid": 26,
-  "sizeBytes": 32512599,
-  "artifactUrl": "https://github.com/ESCANORy/ESCANORy.github.io/releases/download/v2.4.5/XPManga-v2.4.5.apk",
-  "apkSha256": "a1e13eb3741013c1ed4fbab9cf26deb82c33405436cdc60b11287acb7f505b66",
+  "sizeBytes": 32533907,
+  "artifactUrl": "https://github.com/ESCANORy/ESCANORy.github.io/releases/download/v2.4.6/XPManga-v2.4.6.apk",
+  "apkSha256": "db7623c88e900e6cfa69590cb1afc2a5785ea4a470d280ab8f0516f9147079f1",
   "certificateSha256": "16a41427bd82b4ddae2ef3b2dee6e6e916644c660e843351546d11695b769a73",
   "packageName": "com.yahya.mangareader",
-  "releaseUrl": "https://github.com/ESCANORy/ESCANORy.github.io/releases/tag/v2.4.5",
+  "releaseUrl": "https://github.com/ESCANORy/ESCANORy.github.io/releases/tag/v2.4.6",
   "notes": {
-    "ar": "إصلاح مصادر Comix وMangaSid وRaven Scans: صور فصول Comix وتنزيلها دون طلبات تحقق متكررة، وظهور كل صفحات MangaSid وأغلفتها، ولم يعد Raven Scans يطلب التحقق مرة بعد مرة. مكتبتك وتقدّم قراءتك كما هي.",
-    "en": "Fixes for the Comix, MangaSid and Raven Scans sources: Comix chapter images and downloads work without repeated verification prompts, every MangaSid page and cover shows, and Raven Scans no longer asks you to verify again and again. Your library and reading progress stay as they are."
+    "ar": "ترجمة أكمل لفصول الويبتون الطويلة، وزر الترجمة في عشر لغات جديدة، ولم تعد بطاقة التعليقات تظهر أثناء القراءة. وفيه خيار لإخفاء القائمة أثناء التمرير، وغلاف العمل في إشعار الفصل الجديد مع سجل قراءة كامل، وكل أعمال المصادر تظهر افتراضيًا. مكتبتك وتقدّم قراءتك كما هي.",
+    "en": "More complete translation in long webtoon chapters, the translate button in ten more languages, and no comments card while you read. Plus an option to hide the menu while you scroll, the work's cover in new-chapter notifications with a full reading history, and every source work shown by default. Your library and reading progress stay as they are."
   },
   "isLatest": true,
-  "verifiedAt": "2026-11-25T23:16:55Z"
+  "verifiedAt": "2026-11-27T01:47:01Z"
 }
